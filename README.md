@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=alexandrmatviyenko" alt="https://github.com/alexandrmatviyenko" />
 
 <h1 align="center">
-  <samp> Hi there! I'm Alex </samp>
+  <samp> 👋 Hi there! I'm Alex </samp>
 </h1>
 
 <p align="center">
@@ -19,9 +19,11 @@
   🛠 Technologies and Tools
 </h3>
 
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30"/> &nbsp;
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" height="30"/> &nbsp;
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" height="30"/> &nbsp;
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript logo" title="JavaScript" height="30"/> &nbsp;
+<img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" title="WebStorm" height="30"/> &nbsp;
+
 
 <hr width="10%">
 <br>
