@@ -1,5 +1,5 @@
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> Hi there! I'm Alex</h1>
-<h3>I'm Beginner Frontend Web Developer based in <img src="https://icons.iconarchive.com/icons/wikipedia/flags/256/KZ-Kazakhstan-Flag-icon.png" width="20"> <b>Shymkent, Kazakhstan.</b></h3>
+<h3>I'm Beginner Frontend Web Developer based in <img src="https://cdn.countryflags.com/thumbs/kazakhstan/flag-round-250.png" width="16"> <b>Shymkent, Kazakhstan.</b></h3>
 
 
 
