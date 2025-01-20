@@ -77,12 +77,70 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB" height="30"/> &nbsp;
 <img src="https://img.shields.io/badge/web3%20js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3JS" title="Web3JS" height="30"/> &nbsp;
 
+<hr width="10%">
+<br>
 
+<h3>
+  🎓 Education
+</h3>
 
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB" height="30"/> &nbsp;
+- [Bachelor's Degree](https://github.com/AlexandrMatviyenko) in Computer Engineering | GPA - ...
+  <p>Girne American University ( 2028 - ... ) | Nothern Cyprus</p>
 
-📫 Get in Touch
+<hr width="5%">
 
+- [Bachelor's Degree](https://github.com/AlexandrMatviyenko) in English Translation Studies | GPA - 3.78
+  <p>Kazakhstan Engineering and Pedagogical University of Friendship of Nations ( 2012 - 2016 ) | Kazakhstan</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrmatviyenko&layout=compact)
+<hr width="10%">
+<br>
+
+<h3>
+  📜 Certifications 
+</h3>
+
+- [Frontend Developer Course](https://github.com/AlexandrMatviyenko) @ itLogia | 2024-06 - now
+- [Frontend Start Intensive](https://itlogia.ru/certificates/intensive/12403-69694) @ itLogia | 2024-06
+
+<hr width="10%">
+<br>
+
+<h3>
+  💼 Work Experience 
+</h3>
+
+| Job Position                  | Company                    | Field                         | Work Period       | Achievements |
+| ----------------------------- | -------------------------- | ----------------------------- | ----------------- |--------------|
+|                               |                            |                               |                   |              |
+
+<!--
+<hr width="10%">
+<br>
+
+<h3>
+  ⚡ Hackathon Participation
+</h3>
+
+- [Hackathon Name or which devote it to](https://Hackathon Adress) @ The organization that is holding the hackathon  | YYYY-MTH | Place
+-->
+
+<hr width="10%">
+<br>
+
+<h3 align="center">
+  🔔 Get in Touch
+</h3>
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://t.me/AlexandrMatviyenko">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="https://www.instagram.com/alex.matviyenko/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/alexandr-matviyenko">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:TheAlexandrMatviyenko@gmail.com">![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+<hr width="100%">
+<br>
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrmatviyenko&hide_progress=false)
