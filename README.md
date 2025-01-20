@@ -8,7 +8,7 @@
   (Open for Hiring)
 </p>
 
-<h3> 📖 About Me </h3>
+<h3> About Me </h3>
 <p> - Beginner Frontend Web Developer </p>
 <p> - Based in Shymkent, Kazakhstan </p>
 
@@ -19,17 +19,21 @@
   🛠 Technologies and Tools
 </h3>
 
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript logo" title="JavaScript" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" title="WebStorm" height="30"/> &nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5" height="30"/> &nbsp;
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3" height="30"/> &nbsp;
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" title="JavaScript" height="30"/> &nbsp;
+<img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" alt="WebStorm" title="WebStorm" height="30"/> &nbsp;
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" title="VSCode" height="30"/> &nbsp;
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" title="Figma" height="30"/> &nbsp;
+<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" title="Photoshop" height="30"/> &nbsp;
+<img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" title="ChatGPT" height="30"/> &nbsp;
 
 
 <hr width="10%">
 <br>
 
 <h3>
-  📖 What I am currently learning / improving on
+  📖 Currently learning
 </h3>
 
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30"/> &nbsp;
