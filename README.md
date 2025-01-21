@@ -87,7 +87,7 @@
 - [Bachelor's Degree](https://github.com/AlexandrMatviyenko) | Computer Engineering
   <p> Girne American University (2028 - ...) | North Cyprus </p>
 
-- [Bachelor's Degree](https://github.com/AlexandrMatviyenko) | English Translation Studies 
+- [Bachelor's Degree](https://github.com/AlexandrMatviyenko) | English Translation Studies | GPA - 3.78 / 4
   <p> Kazakhstan Engineering and Pedagogical University of Friendship of Nations (2012 - 2016) | Kazakhstan </p>
 
 <hr width="10%">
