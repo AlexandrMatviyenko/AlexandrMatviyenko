@@ -8,10 +8,10 @@
   (Open for Hiring)
 </p>
 
-<h3> 📖 About Me </h3>
-<p> - Beginner Frontend Web Developer </p>
-<p> - Based in Shymkent, Kazakhstan </p>
-<p> - Speak English and Russian </p>
+<h3 align="center"> 📖 About Me </h3>
+<p align="center"> Aspiring Frontend Web Developer eager to contribute to innovative projects and collaborate within a dynamic team. With foundational skills in HTML, CSS, and JavaScript, I am dedicated to crafting visually appealing and user-friendly interfaces. My passion for web development drives my continuous learning and adaptability, making me a valuable addition to your team as I seek to grow and tackle new challenges. </p>
+<p align="center"> - Based in Shymkent, Kazakhstan </p>
+<p align="center"> - Speak English and Russian </p>
 
 <hr width="10%">
 <br>
@@ -125,11 +125,21 @@
 <hr width="10%">
 <br>
 
-<h3>
-  📑 Curriculum Vitae
+<h3 align="center">
+  📑 Curriculum Vitae | Download PDF
 </h3>
 
+<p align="center">
+  <a href="https://github.com/dayyass/dayyass/blob/main/cv.pdf">
+    CV-Alexandr-Matviyenko-ENG
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/dayyass/dayyass/blob/main/cv.pdf">
+    CV-Alexandr-Matviyenko-RU
+  </a>
+</p>
 
 <hr width="10%">
 <br>
