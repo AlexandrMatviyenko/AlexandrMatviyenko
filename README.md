@@ -94,7 +94,7 @@
 <br>
 
 <h3>
-  📜 Certifications 
+  📜 Certificates
 </h3>
 
 - [Frontend Developer Course](https://github.com/AlexandrMatviyenko) @ itLogia | 2024-06 - now
