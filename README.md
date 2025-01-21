@@ -125,6 +125,15 @@
 <hr width="10%">
 <br>
 
+<h3>
+  📑 Curriculum Vitae
+</h3>
+
+
+
+<hr width="10%">
+<br>
+
 <h3 align="center">
   🔔 Get in Touch
 </h3>
