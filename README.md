@@ -130,13 +130,13 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/dayyass/dayyass/blob/main/cv.pdf">
+  <a href="https://github.com/AlexandrMatviyenko/AlexandrMatviyenko/blob/main/cv-alexandr-matviyenko-eng.pdf">
     CV-Alexandr-Matviyenko-ENG
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/dayyass/dayyass/blob/main/cv.pdf">
+  <a href="https://github.com/AlexandrMatviyenko/AlexandrMatviyenko/blob/main/cv-alexandr-matviyenko-ru.pdf">
     CV-Alexandr-Matviyenko-RU
   </a>
 </p>
