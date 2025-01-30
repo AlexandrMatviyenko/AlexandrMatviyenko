@@ -31,7 +31,9 @@
   🛠 Technologies and Tools
 </h3>
 
+<!--
 HTML, HTML5, CSS, CSS3, JavaScript, WebStorm, Visual Studio Code, Figma, Adobe Photoshop, ChatGPT, Claude, DeepSeek
+-->
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5" height="30"/> &nbsp;
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3" height="30"/> &nbsp;
@@ -50,7 +52,9 @@ HTML, HTML5, CSS, CSS3, JavaScript, WebStorm, Visual Studio Code, Figma, Adobe P
   📚 Currently Learning
 </h3>
 
+<!--
 JavaScript, TypeScript, Angular, React, Vue, Bootstrap, JQuery, LESS, SCSS, SASS, PostCSS, NPM, GULP, GitHub, Git, Docker 
+-->
 
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" title="JavaScript" height="30"/> &nbsp;
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript" height="30"/> &nbsp;
@@ -74,7 +78,9 @@ JavaScript, TypeScript, Angular, React, Vue, Bootstrap, JQuery, LESS, SCSS, SASS
   📚 Planning to Learn
 </h3>
 
+<!--
 GitKraken, ESLint, Webpack, Babel, Node.js, Express.js, Next.js, Web3.js, Gatsby, GraphQL, REDUX, React Native, PHP, PHPStorm, MySQL. PostGreSQL, MongoDB, WebSockets, Methodologies and Approaches (Agile, SCRUM, Kanban)
+-->
 
 <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" alt="GitKraken" title="GitKraken" height="30"/> &nbsp;
 <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" title="ESLint" height="30"/> &nbsp;
