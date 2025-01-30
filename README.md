@@ -52,7 +52,6 @@ HTML, HTML5, CSS, CSS3, JavaScript, WebStorm, Visual Studio Code, Figma, Adobe P
 
 JavaScript, TypeScript, Angular, React, Vue, Bootstrap, JQuery, LESS, SCSS, SASS, PostCSS, NPM, GULP, GitHub, Git, Docker 
 
-<!--
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" title="JavaScript" height="30"/> &nbsp;
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript" height="30"/> &nbsp;
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" title="Angular" height="30"/> &nbsp;
@@ -67,7 +66,6 @@ JavaScript, TypeScript, Angular, React, Vue, Bootstrap, JQuery, LESS, SCSS, SASS
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub" height="30"/> &nbsp;
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT" title="GIT" height="30"/> &nbsp;
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" title="Docker" height="30"/> &nbsp;
--->
 
 <hr width="10%">
 <br>
@@ -78,7 +76,6 @@ JavaScript, TypeScript, Angular, React, Vue, Bootstrap, JQuery, LESS, SCSS, SASS
 
 GitKraken, ESLint, Webpack, Babel, Node.js, Express.js, Next.js, Web3.js, Gatsby, GraphQL, REDUX, React Native, PHP, PHPStorm, MySQL. PostGreSQL, MongoDB, WebSockets, Methodologies and Approaches (Agile, SCRUM, Kanban)
 
-<!--
 <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" alt="GitKraken" title="GitKraken" height="30"/> &nbsp;
 <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" title="ESLint" height="30"/> &nbsp;
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Webpack" title="Webpack" height="30"/> &nbsp;
@@ -100,7 +97,6 @@ GitKraken, ESLint, Webpack, Babel, Node.js, Express.js, Next.js, Web3.js, Gatsby
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" height="30"/> &nbsp;
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB" height="30"/> &nbsp;
 <img src="https://img.shields.io/badge/web3%20js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3JS" title="Web3JS" height="30"/> &nbsp;
--->
 
 <hr width="10%">
 <br>
