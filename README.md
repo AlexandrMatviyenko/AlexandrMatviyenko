@@ -98,7 +98,7 @@
 - [Master's Degree](https://github.com/AlexandrMatviyenko) <br> Master of Business Administration (MBA) | GPA - 0.00 / 0
   <p> Girne American University <br> (2032 - yyyy) | North Cyprus </p>
 
-  - [Master's Degree](https://github.com/AlexandrMatviyenko) <br> Computer Engineering | GPA - 0.00 / 0
+- [Master's Degree](https://github.com/AlexandrMatviyenko) <br> Computer Engineering | GPA - 0.00 / 0
   <p> Girne American University <br> (2030 - yyyy) | North Cyprus </p>
 
 - [Bachelor's Degree](https://github.com/AlexandrMatviyenko) <br> Computer Engineering | GPA - 0.00 / 0
