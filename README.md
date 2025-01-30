@@ -129,10 +129,9 @@
   🔔 Get in Touch
 </h3>
 
-<a href="https://t.me/AlexandrMatviyenko">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-<a href="https://www.instagram.com/alex.matviyenko/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/alexandr-matviyenko">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:TheAlexandrMatviyenko@gmail.com">![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://t.me/AlexandrMatviyenko">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
 <hr width="10%">
 <br>
@@ -147,13 +146,13 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/AlexandrMatviyenko/AlexandrMatviyenko/blob/main/cv-alexandr-matviyenko-eng.pdf">
-    CV-Alexandr-Matviyenko-ENG
+  <a href="https://github.com/AlexandrMatviyenko/AlexandrMatviyenko/blob/main/CV-Alexandr_Matviyenko_Frontend_Intern_Junior_0YOE-ENG.pdf">
+    CV-Alexandr_Matviyenko_Frontend_Intern_Junior_0YOE-ENG
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AlexandrMatviyenko/AlexandrMatviyenko/blob/main/cv-alexandr-matviyenko-ru.pdf">
-    CV-Alexandr-Matviyenko-RU
+  <a href="https://github.com/AlexandrMatviyenko/AlexandrMatviyenko/blob/main/CV-Alexandr_Matviyenko_Frontend_Intern_Junior_0YOE-RU.pdf">
+    CV-Alexandr_Matviyenko_Frontend_Intern_Junior_0YOE-RU
   </a>
 </p>
