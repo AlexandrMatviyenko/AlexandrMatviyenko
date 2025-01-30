@@ -95,16 +95,16 @@
   🎓 Education
 </h3>
 
-- [Master's Degree](https://github.com/AlexandrMatviyenko) <br> Master of Business Administration (MBA) | GPA - 0.00 / 0
+- [Master's Degree](https://github.com/AlexandrMatviyenko) (MSc) <br> Master of Business Administration in ... (MBA) | GPA - 0.00 / 0
   <p> Girne American University <br> (2032 - yyyy) | North Cyprus </p>
 
-- [Master's Degree](https://github.com/AlexandrMatviyenko) <br> Computer Engineering | GPA - 0.00 / 0
+- [Master's Degree](https://github.com/AlexandrMatviyenko) (MSc) <br> Computer Engineering | GPA - 0.00 / 0
   <p> Girne American University <br> (2030 - yyyy) | North Cyprus </p>
 
-- [Bachelor's Degree](https://github.com/AlexandrMatviyenko) <br> Computer Engineering | GPA - 0.00 / 0
+- [Bachelor's Degree](https://github.com/AlexandrMatviyenko) (BSc) <br> Computer Engineering | GPA - 0.00 / 0
   <p> Girne American University <br> (2028 - yyyy) | North Cyprus </p>
 
-- [Bachelor's Degree](https://github.com/AlexandrMatviyenko) <br> Translation Studies (English Language) | GPA - 3.78 / 4
+- [Bachelor's Degree](https://github.com/AlexandrMatviyenko) (BSc) <br> Translation Studies (English Language) | GPA - 3.78 / 4
   <p> Kazakhstan Engineering and Pedagogical University of Friendship of Nations <br> (2012 - 2016) | Kazakhstan </p>
 
 <hr width="10%">
