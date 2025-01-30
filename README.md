@@ -125,7 +125,7 @@
 
 
 <!--
-**Middle**
+**Middle** ----------------------------------------------------------------------------------------------------------------------------
 
 **Languages:**
 - **Advanced JavaScript (ES6+):** Async/Await, Promise.all(), Event Loop, Proxy, WeakMap, WeakSet 
@@ -217,7 +217,7 @@
 -->
 
 <!--
-**Senior**
+**Senior** ----------------------------------------------------------------------------------------------------------------------------
 
 - **Advanced TypeScript:** Utility Types, Infer, Mapped Types
 
@@ -247,6 +247,57 @@
 - **Technical Leadership:** Mentorship, code reviews
 - **Product Thinking:** Balancing business goals and technical decisions
 - **Collaboration:** Working with designers, PMs, and backend developers
+
+<br>
+
+**Additional Deep Learning:**
+- **Advanced Angular:**
+  - ESNext, ECMAScript Modules**
+
+  - **Frameworks & Libraries:** Angular Universal, Angular , Akita
+  - **UI Components:** PrimeNG, NG-ZORRO
+
+- **Testing:**
+  - **Unit Testing:** Mocha, Angular Testing Library, TestBed
+  - **End-to-End Testing:** Selenium, Puppeteer
+  - **Test Strategy:** Test Coverage, Mocking, Dependency Injection in Tests, Integration Testing, Continuous Testing
+
+- **Build Tools & Version Control:**
+  - **Build Tools:** Bazel
+  - **Version Control:** GitLab, Bitbucket, Git Flow, Monorepos (Lerna)
+  - **Package Management:** Yarn, pnpm
+
+- **DevOps & Cloud:**
+  - **Containerization:** Kubernetes, Docker Compose
+  - **CI/CD:** GitHub Jenkins, GitLab CI, CircleCI, Travis CI, Azure DevOps, Bamboo
+  - **Cloud Platforms:** AWS (Lambda, S3, API Gateway), Azure (App Services, Functions), Google Cloud (Firebase, App Engine)
+  - **Serverless Frameworks:** Serverless, Firebase Functions, AWS Amplify
+
+- **Performance Optimization:**
+  - **Performance:** Ahead-of-Time (AOT) Compilation, Change Detection Strategy, Memoizations
+
+- **Architecture & Design Patterns:**
+  - **Design Patterns:** Component-Based Architecture, Singleton, Factory, Observer, Proxy, Strategy
+  - **Principles:** DRY, KISS, YAGNI
+  - **Architectural Patterns:** Micro Frontends, Modular Architecture, Microservices (Backend)
+
+- **APIs & Communication:**
+  - **API Documentation:** Swagger/OpenAPI, Postman
+
+- **Code Quality & Best Practices:**
+  - **Code Quality:** TSLint, Prettier, SonarQube, Code Reviews, Design Systems
+  - **Static Analysis:** TypeScript, Strict Mode, Type Safety, Linting, Pre-commit Hooks, Commitlint
+  - **Refactoring & Legacy Code:** Refactoring Strategies, Code Reviews, Monolithic vs Microservice Decisions
+
+- **Collaboration & Leadership:**
+  - **Leadership & Mentoring:** Code Reviews, Mentoring Junior & Mid-level Developers, Knowledge Sharing, Technical Debt Management
+  - **Agile Practices:** Scrum, Kanban, TDD, BDD, Continuous Integration/Continuous Deployment, Lean Development
+
+- **Additional Tools & Concepts:**
+  - **Localization (l10n):** Angular i18n, ngx-translate
+  - **Build Optimization:** Caching, Differential Loading, Bundle Size Analysis, Webpack Bundle Analyzer
+  - **Monitoring & Analytics:** LogRocket, Google Analytics, Firebase Analytics
+  - **Documentation:** Storybook, Compodoc, GitHub Wiki, Markdown
 -->
 
 <hr width="10%">
