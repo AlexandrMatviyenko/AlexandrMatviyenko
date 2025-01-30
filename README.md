@@ -12,6 +12,7 @@
 <p align="center"> Aspiring Frontend Web Developer eager to contribute to innovative projects and collaborate within a dynamic team. With foundational skills in HTML, CSS, and JavaScript, I am dedicated to crafting visually appealing and user-friendly interfaces. My passion for web development drives my continuous learning and adaptability, making me a valuable addition to your team as I seek to grow and tackle new challenges. </p>
 <p align="center"> Based in Shymkent, Kazakhstan </p>
 <p align="center"> Speak English and Russian </p>
+
 <p> Manifesto: </p>
 
 - Deliver value to the business
@@ -28,21 +29,18 @@
 <br>
 
 <h3>
-  🛠 Technologies and Tools
+  🚀 Tech Stack
 </h3>
 
-<!--
-HTML, HTML5, CSS, CSS3, JavaScript, WebStorm, Visual Studio Code, Figma, Adobe Photoshop, ChatGPT, Claude, DeepSeek
--->
+**Languages:** JavaScript
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" title="JavaScript" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" alt="WebStorm" title="WebStorm" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" title="VSCode" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" title="Figma" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" title="Photoshop" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" title="ChatGPT" height="30"/> &nbsp;
+**Frontend Technologies:** HTML, CSS  
+
+**Design Tools (Software):** Figma, Adobe Photoshop  
+
+**AI Assistants:** Claude, DeepSeek, ChatGPT  
+
+**IDE & Code Editors (Environments):** WebStorm, Visual Studio Code  
 
 
 <hr width="10%">
@@ -52,24 +50,17 @@ HTML, HTML5, CSS, CSS3, JavaScript, WebStorm, Visual Studio Code, Figma, Adobe P
   📚 Currently Learning
 </h3>
 
-<!--
-JavaScript, TypeScript, Angular, React, Vue, Bootstrap, JQuery, LESS, SCSS, SASS, PostCSS, NPM, GULP, GitHub, Git, Docker 
--->
+**Languages:** JavaScript, TypeScript
 
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" title="JavaScript" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" title="Angular" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" title="React" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="VueJS" title="VueJS" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" title="Bootstrap" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" title="jQuery" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white" alt="LESS" title="LESS" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" title="SASS" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" title="NPM" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" alt="GULP" title="GULP" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT" title="GIT" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" title="Docker" height="30"/> &nbsp;
+**Frameworks & Libraries:** Angular, React, Vue
+
+**Styling & Preprocessors:** Bootstrap, jQuery, LESS, SCSS, SASS, PostCSS  
+
+**Build Tools:** NPM, Gulp
+
+**Version Control:** Git, GitHub  
+
+**DevOps (Containerization):** Docker  
 
 <hr width="10%">
 <br>
@@ -78,30 +69,196 @@ JavaScript, TypeScript, Angular, React, Vue, Bootstrap, JQuery, LESS, SCSS, SASS
   📚 Planning to Learn
 </h3>
 
+**Languages:** JavaScript, TypeScript
+
+**Frameworks & Libraries:** React, Angular, Vue
+
+**Styling & Preprocessors:** Bootstrap, jQuery, LESS, SCSS, SASS, PostCSS
+
+**DevOps (CI/CD):** GitHub Actions, Vercel, Netlify
+
+**UI Libraries:** Material UI, Tailwind CSS, Chakra UI
+
+**State Management (Libraries):** Redux, Zustand, Recoil
+
+**API (Protocols):** REST, GraphQL, WebSockets
+
+**Backend Technologies:** Node.js, Express.js
+
+**Performance Optimization (Tools & Techniques):** Lighthouse, Web Vitals, Lazy Loading, Code Splitting
+
+**Testing (Frameworks):** Jest, React Testing Library, Cypress
+
+**Algorithms & Problem Solving:** LeetCode (Easy/Medium)
+
+**Soft Skills:** Teamwork, Agile, SCRUM, Documentation
+
+<br>
+
+**Additional Deep Learning:**
+- **Angular:**
+  - **Frameworks & Libraries:** Angular, RxJS, Angular CLI
+  - **Styling & Preprocessors:** Angular Material
+  - **State Management:** NgRx, Services, BehaviorSubject, Observables
+  - **Testing:** Jasmine, Karma, Protractor (e2e), Jest
+  - **Build Tools:** Angular CLI, NPM, Webpack
+  - **Version Control:** Git, GitHub
+
+- **Languages:** PHP
+
+- **Frameworks & Libraries:** Next.js, Gatsby, React Native
+
+- **Blockchain:** Web3.js
+
+- **SQL Databases:** MySQL, PostgreSQL
+
+- **NoSQL Databases:** MongoDB
+
+- **Version Control:** GitKraken
+
+- **IDE & Code Editors (Environments):** PhpStorm
+
+- **Code Quality & Linting:** ESLint
+
+- **Build Tools & Transpiling:** Webpack, Babel
+
+
+
 <!--
-GitKraken, ESLint, Webpack, Babel, Node.js, Express.js, Next.js, Web3.js, Gatsby, GraphQL, REDUX, React Native, PHP, PHPStorm, MySQL. PostGreSQL, MongoDB, WebSockets, Methodologies and Approaches (Agile, SCRUM, Kanban)
+**Middle**
+
+**Languages:**
+- **Deep JavaScript (ES6+):** Async/Await, Promise.all(), Event Loop, Proxy, WeakMap, WeakSet 
+- **Deep TypeScript:** Typing, Interfaces, Generics, Decorators
+
+**Frameworks & Libraries:**
+- **React:** React.memo, useCallback, Virtual DOM
+- **SSR/SSG:** Next.js, Remix, dynamic page generation
+- **State Management:** Redux Toolkit, Jotai
+
+**Performance & Optimization:**
+- **Web Performance:** CRP, font loading
+- **Code Splitting & Tree Shaking:** Rollup, Vite
+- **Rendering Optimization:** requestAnimationFrame(), Web Workers
+- **Handling Large DOM Structures:** Virtual Scrolling
+
+**Deep Browser Understanding:**
+- **Networking:** HTTP/2, HTTP/3, WebSockets, Service Workers
+- **Load Optimization:** Prefetch, Preload, Caching Strategies
+- **WebAssembly (WASM):** Used for computationally intensive tasks
+
+**Algorithms & Data Structures:**
+- **Optimization Algorithms:** Dijkstra, A*
+- **Data Structures:** Graphs, dynamic programming, hash tables
+- **Solving complex interview problems**
+- **Platforms:** LeetCode (Medium)
+
+**UI/UX & Design Systems:**
+- **Accessibility (A11Y):** WCAG, ARIA
+- **Responsive Design & Internationalization (i18n)**
+
+**CI/CD & DevOps"**
+- **Monorepositories:** Nx, Turborepo
+
+**Testing:**
+- **Testing Frameworks:** React Testing Library, Playwright
+
+**API & Backend Interaction:**
+- **GraphQL:** Apollo, Relay
+- **gRPC**
+
+**Soft Skills:**
+- **Making architectural decisions**
+- **Collaboration with backend developers, designers, and product managers**
+- **Leadership development:** Code reviews, mentoring
+
+<br>
+
+**Additional Deep Learning:**
+- **Angular:**
+  - **Angular Architecture:** Modules, Components, Services, Directives
+  - **Component Lifecycle & Hooks**
+  - **Dependency Injection (DI)**
+  - **Angular CLI & Its Features**
+
+- **State Management & Data Handling:**
+  - **Working with Observables, Subjects, and Operators**
+  - **State Management Patterns:** NGXS, or other solutions
+
+- **Performance Optimization:**
+  - **Change Detection & Optimization**
+  - **OnPush Strategy**
+  - **Lazy Module Loading**
+  - **Progressive Web Apps (PWA) & Server-Side Rendering (SSR)**
+
+- **Testing:**
+  - **Unit Testing:** Jasmine, Jest
+  - **End-to-End (E2E) Testing:** Cypress, Protractor
+  - **Mocking Services & Dependencies**
+  - **Test-Driven Development (TDD)**
+
+- **Tooling & Debugging:**
+  - **Webpack & Build Process Understanding**
+  - **Angular DevTools**
+  - **Debugging & Profiling**
+  - **CI/CD Best Practices**
+
+- **Architectural Patterns:**
+  - **SOLID Principles**
+  - **Component-Based Architecture**
+  - **Microfrontends**
+  - **Design Patterns:** Factory, Singleton, Observer, and more
+
+- **Security Best Practices:**
+  - **XSS & CSRF Protection**
+  - **Content Security Policy (CSP)**
+  - **Secure Authentication**
+  - **Data Sanitization**
 -->
 
-<img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" alt="GitKraken" title="GitKraken" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" title="ESLint" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Webpack" title="Webpack" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" alt="Babel" title="Babel" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" title="NodeJS" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS" title="ExpressJS" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS" title="NextJS" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" alt="GatsbyJS" title="GatsbyJS" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" title="GraphQL" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" title="Redux" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/{REST}-100000?style=for-the-badge&logo=&logoColor=5AA63A&labelColor=733EB3&color=5D2C93" alt="Rest" title="Rest" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/Zustand-100000?style=for-the-badge&logo=&logoColor=FFFFFF&labelColor=FEFB94&color=DAEA5A" alt="Zustand" title="Zustand" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/Recoil-100000?style=for-the-badge&logo=&logoColor=FFFFFF&labelColor=FEFB94&color=6291D7" alt="Recoil" title="Recoil" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" title="ReactNative" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="PHP" height="30"/> &nbsp;
-<img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" alt="Phpstorm" title="Phpstorm" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB" height="30"/> &nbsp;
-<img src="https://img.shields.io/badge/web3%20js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3JS" title="Web3JS" height="30"/> &nbsp;
+<!--
+**Senior**
+
+**Advanced JavaScript & Browser APIs:**
+- **Asynchronous Programming:** Event Loop, Web Workers, Service Workers
+- **Rendering Optimization:** Virtual DOM, Reconciliation, React Fiber
+- **Advanced TypeScript:** Generic Types, Utility Types, Infer, Mapped Types
+
+**Frameworks & Architecture:**
+- **React (Next.js):** SSR, ISR, SSG, Suspense, Server Actions
+- **State Management:** Redux Toolkit, Zustand, Recoil
+- **Modular Architecture:** Monorepos (Nx, Turborepo)
+- **Frontend Optimization:** Code Splitting, Lazy Loading, Tree Shaking
+
+**Backend Integration:**
+- **GraphQL:** Apollo, Relay, query optimization
+- **REST API:** Caching, authentication (JWT, OAuth)
+- **WebSockets & Streaming:** Real-time applications, Server-Sent Events (SSE)
+
+**Algorithms & Problem Solving:**
+- **Platforms:** LeetCode (Medium/Hard)
+- **Key Topics:**
+  - Trees (BST, Trie), Graphs (DFS/BFS), Dynamic Programming
+  - Algorithm Optimization: O(n), O(log n)
+  - **Big Tech Interviews:** Always include algorithms
+
+**UI/UX & Design:**
+- **Component Development:** Design Tokens, Theming, Accessibility (a11y)
+- **Figma Workflow:** Analyzing layouts, building UI libraries
+- **Animations:** Framer Motion, GSAP
+
+**CI/CD & DevOps:**
+- **Frontend CI/CD:** GitHub Actions, Vercel, Netlify, Docker
+- **Monitoring & Logging:** Sentry, Datadog, OpenTelemetry
+
+**Testing:**
+- **Frameworks:** Jest, React Testing Library, Cypress, Playwright
+
+**Leadership & Soft Skills:**
+- **Technical Leadership:** Mentorship, code reviews
+- **Product Thinking:** Balancing business goals and technical decisions
+- **Collaboration:** Working with designers, PMs, and backend developers
+-->
 
 <hr width="10%">
 <br>
