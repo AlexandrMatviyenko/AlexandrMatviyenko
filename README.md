@@ -84,11 +84,11 @@
   🎓 Education
 </h3>
 
-- [Bachelor's Degree](https://github.com/AlexandrMatviyenko) | Computer Engineering
-  <p> Girne American University (2028 - ...) | North Cyprus </p>
+- [Bachelor's Degree](https://github.com/AlexandrMatviyenko) <br> Computer Engineering | GPA - 0.00 / 0
+  <p> Girne American University <br> (2028 - yyyy) | North Cyprus </p>
 
-- [Bachelor's Degree](https://github.com/AlexandrMatviyenko) | English Translation Studies | GPA - 3.78 / 4
-  <p> Kazakhstan Engineering and Pedagogical University of Friendship of Nations (2012 - 2016) | Kazakhstan </p>
+- [Bachelor's Degree](https://github.com/AlexandrMatviyenko) <br> Translation Studies (English Language) | GPA - 3.78 / 4
+  <p> Kazakhstan Engineering and Pedagogical University of Friendship of Nations <br> (2012 - 2016) | Kazakhstan </p>
 
 <hr width="10%">
 <br>
@@ -97,8 +97,8 @@
   📜 Certificates
 </h3>
 
-- [Frontend Developer Course](https://github.com/AlexandrMatviyenko) @ itLogia | 2024-06 - now
-- [Frontend Start Intensive](https://itlogia.ru/certificates/intensive/12403-69694) @ itLogia | 2024-06
+- [Frontend Developer Course](https://github.com/AlexandrMatviyenko) <br> @ itLogia | 2024-06 - now
+- [Frontend Start Intensive](https://itlogia.ru/certificates/intensive/12403-69694) <br> @ itLogia | 2024-06
 
 <hr width="10%">
 <br>
@@ -107,9 +107,9 @@
   💼 Work Experience 
 </h3>
 
-| Job Position                  | Company                    | Field                         | Work Period       | Achievements |
-| ----------------------------- | -------------------------- | ----------------------------- | ----------------- |--------------|
-|                               |                            |                               |                   |              |
+| Job Position                  | Company                    | Field                         | Work Period       | Achievements         |
+| ----------------------------- | -------------------------- | ----------------------------- | ----------------- |----------------------|
+|                               |                            |                               |                   |                      |
 
 <!--
 <hr width="10%">
@@ -123,6 +123,23 @@
 -->
 
 <hr width="10%">
+<br>
+
+<h3>
+  🔔 Get in Touch
+</h3>
+
+<a href="https://t.me/AlexandrMatviyenko">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="https://www.instagram.com/alex.matviyenko/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/alexandr-matviyenko">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:TheAlexandrMatviyenko@gmail.com">![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+<hr width="10%">
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrmatviyenko&hide_progress=false)
+
+<hr width="100%">
 <br>
 
 <h3 align="center">
@@ -140,24 +157,3 @@
     CV-Alexandr-Matviyenko-RU
   </a>
 </p>
-
-<hr width="10%">
-<br>
-
-<h3 align="center">
-  🔔 Get in Touch
-</h3>
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://t.me/AlexandrMatviyenko">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-<a href="https://www.instagram.com/alex.matviyenko/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/alexandr-matviyenko">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:TheAlexandrMatviyenko@gmail.com">![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
-<hr width="100%">
-<br>
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrmatviyenko&hide_progress=false)
