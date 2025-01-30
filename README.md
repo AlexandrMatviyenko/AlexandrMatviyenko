@@ -31,6 +31,9 @@
   🛠 Technologies and Tools
 </h3>
 
+HTML, HTML5, CSS, CSS3, JavaScript, WebStorm, Visual Studio Code, Figma, Adobe Photoshop, ChatGPT, Claude, DeepSeek
+
+<!--
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5" height="30"/> &nbsp;
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3" height="30"/> &nbsp;
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" title="JavaScript" height="30"/> &nbsp;
@@ -39,6 +42,7 @@
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" title="Figma" height="30"/> &nbsp;
 <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" title="Photoshop" height="30"/> &nbsp;
 <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" title="ChatGPT" height="30"/> &nbsp;
+-->
 
 <hr width="10%">
 <br>
@@ -47,6 +51,9 @@
   📚 Currently Learning
 </h3>
 
+JavaScript, TypeScript, Angular, React, Vue, Bootstrap, JQuery, LESS, SCSS, SASS, PostCSS, NPM, GULP, GitHub, Git, Docker 
+
+<!--
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" title="JavaScript" height="30"/> &nbsp;
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript" height="30"/> &nbsp;
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" title="Angular" height="30"/> &nbsp;
@@ -61,6 +68,7 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub" height="30"/> &nbsp;
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT" title="GIT" height="30"/> &nbsp;
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" title="Docker" height="30"/> &nbsp;
+-->
 
 <hr width="10%">
 <br>
@@ -69,6 +77,9 @@
   📚 Planning to Learn
 </h3>
 
+GitKraken, ESLint, Webpack, Babel, Node.js, Express.js, Next.js, Web3.js, Gatsby, GraphQL, REDUX, React Native, PHP, PHPStorm, MySQL. PostGreSQL, MongoDB, WebSockets, Methodologies and Approaches (Agile, SCRUM, Kanban)
+
+<!--
 <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" alt="GitKraken" title="GitKraken" height="30"/> &nbsp;
 <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" title="ESLint" height="30"/> &nbsp;
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Webpack" title="Webpack" height="30"/> &nbsp;
@@ -79,6 +90,9 @@
 <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" alt="GatsbyJS" title="GatsbyJS" height="30"/> &nbsp;
 <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" title="GraphQL" height="30"/> &nbsp;
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" title="Redux" height="30"/> &nbsp;
+<img src="https://img.shields.io/badge/{REST}-100000?style=for-the-badge&logo=&logoColor=5AA63A&labelColor=733EB3&color=5D2C93" alt="Rest" title="Rest" height="30"/> &nbsp;
+<img src="https://img.shields.io/badge/Zustand-100000?style=for-the-badge&logo=&logoColor=FFFFFF&labelColor=FEFB94&color=DAEA5A" alt="Zustand" title="Zustand" height="30"/> &nbsp;
+<img src="https://img.shields.io/badge/Recoil-100000?style=for-the-badge&logo=&logoColor=FFFFFF&labelColor=FEFB94&color=6291D7" alt="Recoil" title="Recoil" height="30"/> &nbsp;
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" title="ReactNative" height="30"/> &nbsp;
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="PHP" height="30"/> &nbsp;
 <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" alt="Phpstorm" title="Phpstorm" height="30"/> &nbsp;
@@ -87,6 +101,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" height="30"/> &nbsp;
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB" height="30"/> &nbsp;
 <img src="https://img.shields.io/badge/web3%20js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3JS" title="Web3JS" height="30"/> &nbsp;
+-->
 
 <hr width="10%">
 <br>
