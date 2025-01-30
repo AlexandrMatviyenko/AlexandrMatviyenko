@@ -12,6 +12,17 @@
 <p align="center"> Aspiring Frontend Web Developer eager to contribute to innovative projects and collaborate within a dynamic team. With foundational skills in HTML, CSS, and JavaScript, I am dedicated to crafting visually appealing and user-friendly interfaces. My passion for web development drives my continuous learning and adaptability, making me a valuable addition to your team as I seek to grow and tackle new challenges. </p>
 <p align="center"> Based in Shymkent, Kazakhstan </p>
 <p align="center"> Speak English and Russian </p>
+<p> Manifesto: </p>
+
+- Deliver value to the business
+- Adapt easily
+- Contribute to the growth of the team and company
+- Think about scalability and long-term sustainability of solutions
+- Find the balance between technical debt and development speed
+- Take ownership
+- Understand the overall strategy
+- Gather feedback
+- Be transparent and open
 
 <hr width="10%">
 <br>
@@ -83,6 +94,12 @@
 <h3>
   🎓 Education
 </h3>
+
+- [Master's Degree](https://github.com/AlexandrMatviyenko) <br> Master of Business Administration (MBA) | GPA - 0.00 / 0
+  <p> Girne American University <br> (2032 - yyyy) | North Cyprus </p>
+
+  - [Master's Degree](https://github.com/AlexandrMatviyenko) <br> Computer Engineering | GPA - 0.00 / 0
+  <p> Girne American University <br> (2030 - yyyy) | North Cyprus </p>
 
 - [Bachelor's Degree](https://github.com/AlexandrMatviyenko) <br> Computer Engineering | GPA - 0.00 / 0
   <p> Girne American University <br> (2028 - yyyy) | North Cyprus </p>
