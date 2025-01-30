@@ -128,12 +128,12 @@
 **Middle**
 
 **Languages:**
-- **Deep JavaScript (ES6+):** Async/Await, Promise.all(), Event Loop, Proxy, WeakMap, WeakSet 
+- **Advanced JavaScript (ES6+):** Async/Await, Promise.all(), Event Loop, Proxy, WeakMap, WeakSet 
 - **Deep TypeScript:** Typing, Interfaces, Generics, Decorators
 
 **Frameworks & Libraries:**
 - **React:** React.memo, useCallback, Virtual DOM
-- **SSR/SSG:** Next.js, Remix, dynamic page generation
+- **SSR/SSG:** Remix, dynamic page generation
 - **State Management:** Redux Toolkit, Jotai
 
 **Performance & Optimization:**
@@ -157,7 +157,7 @@
 - **Accessibility (A11Y):** WCAG, ARIA
 - **Responsive Design & Internationalization (i18n)**
 
-**CI/CD & DevOps"**
+**CI/CD (Modular Architecture) & DevOps"**
 - **Monorepositories:** Nx, Turborepo
 
 **Testing:**
@@ -219,20 +219,16 @@
 <!--
 **Senior**
 
-**Advanced JavaScript & Browser APIs:**
-- **Asynchronous Programming:** Event Loop, Web Workers, Service Workers
-- **Rendering Optimization:** Virtual DOM, Reconciliation, React Fiber
-- **Advanced TypeScript:** Generic Types, Utility Types, Infer, Mapped Types
+- **Advanced TypeScript:** Utility Types, Infer, Mapped Types
 
 **Frameworks & Architecture:**
-- **React (Next.js):** SSR, ISR, SSG, Suspense, Server Actions
-- **State Management:** Redux Toolkit, Zustand, Recoil
-- **Modular Architecture:** Monorepos (Nx, Turborepo)
-- **Frontend Optimization:** Code Splitting, Lazy Loading, Tree Shaking
+- **React (Next.js):** ISR, Suspense, Server Actions
+
+**Performance & Optimization:**
+- **Rendering Optimization:** React Fiber
 
 **Backend Integration:**
-- **GraphQL:** Apollo, Relay, query optimization
-- **REST API:** Caching, authentication (JWT, OAuth)
+- **GraphQL:** query optimization
 - **WebSockets & Streaming:** Real-time applications, Server-Sent Events (SSE)
 
 **Algorithms & Problem Solving:**
@@ -240,19 +236,12 @@
 - **Key Topics:**
   - Trees (BST, Trie), Graphs (DFS/BFS), Dynamic Programming
   - Algorithm Optimization: O(n), O(log n)
-  - **Big Tech Interviews:** Always include algorithms
 
 **UI/UX & Design:**
-- **Component Development:** Design Tokens, Theming, Accessibility (a11y)
-- **Figma Workflow:** Analyzing layouts, building UI libraries
 - **Animations:** Framer Motion, GSAP
 
 **CI/CD & DevOps:**
-- **Frontend CI/CD:** GitHub Actions, Vercel, Netlify, Docker
 - **Monitoring & Logging:** Sentry, Datadog, OpenTelemetry
-
-**Testing:**
-- **Frameworks:** Jest, React Testing Library, Cypress, Playwright
 
 **Leadership & Soft Skills:**
 - **Technical Leadership:** Mentorship, code reviews
