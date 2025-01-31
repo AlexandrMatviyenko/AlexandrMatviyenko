@@ -307,7 +307,7 @@
   🎓 Education
 </h3>
 
-- [Master's Degree](https://github.com/AlexandrMatviyenko) (MSc) <br> Master of Business Administration in "specialization" (MBA) | GPA - 0.00 / 0
+- [Master's Degree](https://github.com/AlexandrMatviyenko) (MSc) <br> Master of Business Administration in " technical specialization" (MBA) | GPA - 0.00 / 0
   <p> Girne American University <br> (2032 - yyyy) | North Cyprus </p>
 
 - [Master's Degree](https://github.com/AlexandrMatviyenko) (MSc) <br> Computer Engineering | GPA - 0.00 / 0
