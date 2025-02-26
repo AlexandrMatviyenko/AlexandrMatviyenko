@@ -13,6 +13,7 @@
 <p align="center"> Based in Shymkent, Kazakhstan </p>
 <p align="center"> Speak English and Russian </p>
 
+<!--
 <p> Manifesto: </p>
 
 - Deliver value to the business
@@ -24,6 +25,7 @@
 - Understand the overall strategy
 - Gather feedback
 - Be transparent and open
+-->
 
 <hr width="10%">
 <br>
