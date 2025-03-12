@@ -93,7 +93,7 @@
   📜 Certificates
 </h3>
 
-- [Frontend Developer Course](https://github.com/AlexandrMatviyenko) <br> @ itLogia | 2024-06 - now | online-course
+- [Frontend Developer Course](https://github.com/AlexandrMatviyenko) <br> @ itLogia | 2024-06 - present | online-course
 - [Frontend Start Intensive](https://itlogia.ru/certificates/intensive/12403-69694) <br> @ itLogia | 2024-06 | online-course
 - [Upper-intermediate English (B2)](https://github.com/AlexandrMatviyenko) <br> @ Girne American University | 2018-06 | North Cyprus
 
