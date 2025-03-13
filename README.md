@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center"> 📖 About Me </h3>
-<p align="center"> Aspiring Frontend Web Developer eager to contribute to innovative projects and collaborate within a dynamic team. With foundational skills in HTML, CSS, and JavaScript, I am dedicated to crafting visually appealing and user-friendly interfaces. My passion for web development drives my continuous learning and adaptability, making me a valuable addition to your team as I seek to grow and tackle new challenges. </p>
+<p align="center"> Aspiring Frontend Engineer eager to contribute to innovative projects and collaborate within a dynamic team. With foundational skills in HTML, CSS, and JavaScript, I am dedicated to crafting visually appealing and user-friendly interfaces. My passion for web development drives my continuous learning and adaptability, making me a valuable addition to your team as I seek to grow and tackle new challenges. </p>
 <p align="center"> Based in Shymkent, Kazakhstan </p>
 <p align="center"> Speak English and Russian </p>
 
