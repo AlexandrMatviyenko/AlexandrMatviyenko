@@ -38,7 +38,7 @@
 
 **Frontend Technologies:** HTML, CSS
 
-**Styling & Preprocessors:** Bootstrap
+**Frameworks & Libraries:** Bootstrap, jQuery
 
 **Design Tools (Software):** Figma, Adobe Photoshop  
 
@@ -56,7 +56,7 @@
 
 **Frameworks & Libraries:** Angular, React, Vue
 
-**Styling & Preprocessors:** jQuery, LESS, SCSS, SASS, PostCSS  
+**Styling & Preprocessors:** LESS, SCSS, SASS, PostCSS  
 
 **Build Tools:** NPM, Gulp
 
