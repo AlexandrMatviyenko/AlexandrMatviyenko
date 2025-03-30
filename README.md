@@ -42,8 +42,6 @@
 
 **Design Tools (Software):** Figma, Adobe Photoshop  
 
-**AI Assistants:** Claude, DeepSeek, ChatGPT  
-
 **IDE & Code Editors (Environments):** WebStorm, Visual Studio Code  
 
 
