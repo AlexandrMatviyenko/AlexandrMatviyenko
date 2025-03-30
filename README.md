@@ -42,7 +42,7 @@
 
 **Design Tools (Software):** Figma, Adobe Photoshop  
 
-**IDE & Code Editors (Environments):** WebStorm, Visual Studio Code  
+**IDE & Code Editors:** WebStorm, Visual Studio Code  
 
 
 <hr width="10%">
