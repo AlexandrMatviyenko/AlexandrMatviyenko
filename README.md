@@ -40,7 +40,7 @@
 
 **Frameworks & Libraries:** Bootstrap, jQuery
 
-**Design Tools (Software):** Figma, Adobe Photoshop  
+**Design Tools:** Figma, Adobe Photoshop  
 
 **IDE & Code Editors:** WebStorm, Visual Studio Code  
 
