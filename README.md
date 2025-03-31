@@ -142,19 +142,3 @@
 
 <hr width="100%">
 <br>
-
-<h3 align="center">
-  📑 Curriculum Vitae | Download PDF
-</h3>
-
-<p align="center">
-  <a href="https://github.com/AlexandrMatviyenko/AlexandrMatviyenko/blob/main/CV-Alexandr_Matviyenko_Frontend_Intern_Junior_0YOE-ENG.pdf">
-    CV-Alexandr_Matviyenko_Frontend_Intern_Junior_0YOE-ENG
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AlexandrMatviyenko/AlexandrMatviyenko/blob/main/CV-Alexandr_Matviyenko_Frontend_Intern_Junior_0YOE-RU.pdf">
-    CV-Alexandr_Matviyenko_Frontend_Intern_Junior_0YOE-RU
-  </a>
-</p>
