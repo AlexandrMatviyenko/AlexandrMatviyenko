@@ -9,60 +9,9 @@
 </p>
 
 <h3 align="center"> 📖 About Me </h3>
-<p align="center"> Aspiring Frontend Developer eager to contribute to innovative projects and collaborate within a dynamic team. With foundational skills in HTML, CSS, and JavaScript, I am dedicated to crafting visually appealing and user-friendly interfaces. My passion for web development drives my continuous learning and adaptability, making me a valuable addition to your team as I seek to grow and tackle new challenges. </p>
+<p align="center"> Aspiring Frontend Developer eager to contribute to innovative projects and collaborate within a dynamic team. With foundational skills I am dedicated to crafting visually appealing and user-friendly interfaces. My passion for web development drives my continuous learning and adaptability, making me a valuable addition to your team as I seek to grow and tackle new challenges. </p>
 <p align="center"> Based in Shymkent, Kazakhstan </p>
 <p align="center"> Speak English and Russian </p>
-
-<!--
-<p> Manifesto: </p>
-
-- Deliver value to the business
-- Adapt easily
-- Contribute to the growth of the team and company
-- Think about scalability and long-term sustainability of solutions
-- Find the balance between technical debt and development speed
-- Take ownership
-- Understand the overall strategy
-- Gather feedback
-- Be transparent and open
--->
-
-<hr width="10%">
-<br>
-
-<h3>
-  🚀 Tech Stack
-</h3>
-
-**Languages:** JavaScript
-
-**Frontend Technologies:** HTML, CSS
-
-**Frameworks & Libraries:** Bootstrap, jQuery
-
-**Design Tools:** Figma, Adobe Photoshop  
-
-**IDE & Code Editors:** WebStorm, Visual Studio Code  
-
-
-<hr width="10%">
-<br>
-
-<h3>
-  📚 Currently Learning
-</h3>
-
-**Languages:** JavaScript, TypeScript
-
-**Frameworks & Libraries:** Angular, React, Vue
-
-**Styling & Preprocessors:** LESS, SCSS, SASS, PostCSS  
-
-**Build Tools:** NPM, Gulp
-
-**Version Control:** Git, GitHub  
-
-**DevOps (Containerization):** Docker  
 
 <hr width="10%">
 <br>
