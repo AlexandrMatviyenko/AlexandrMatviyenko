@@ -16,20 +16,9 @@
 <hr width="10%">
 <br>
 
-
 <h3>
   🎓 Education
 </h3>
-
-<!--
-- [Master's Degree](https://github.com/AlexandrMatviyenko) (MSc) <br> Computer Engineering | GPA - 0.00 / 0
-  <p> Girne American University <br> (2030 - yyyy) | North Cyprus </p>
--->
-
-<!--
-- [Bachelor's Degree](https://github.com/AlexandrMatviyenko) (BSc) <br> Computer Engineering | GPA - 0.00 / 0
-  <p> Girne American University <br> (2028 - yyyy) | North Cyprus </p>
--->
 
 - [Bachelor's Degree](https://github.com/AlexandrMatviyenko) (BSc) <br> Translation Studies (English Language) | GPA - 3.78 / 4
   <p> Kazakhstan Engineering and Pedagogical University of Friendship of Nations <br> (2012 - 2016) | Kazakhstan </p>
@@ -44,6 +33,9 @@
 
 - [Frontend Developer Course](https://github.com/AlexandrMatviyenko) <br> @ itLogia | 2024-06 - present | online-course
 - [Frontend Start Intensive](https://itlogia.ru/certificates/intensive/12403-69694) <br> @ itLogia | 2024-06 | online-course
+
+<hr width="10%">
+<br>
 
 <h3>
 📜 Foreign Language Certificates
