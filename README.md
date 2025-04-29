@@ -47,12 +47,12 @@
 <br>
 
 <h3>
-  💼 Work Experience 
+  💻 Work Experience 
 </h3>
 
-| Job Position                  | Company                    | Field                         | Work Period       | Achievements         |
-| ----------------------------- | -------------------------- | ----------------------------- | ----------------- |----------------------|
-|                               |                            |                               |                   |                      |
+| Job Position                  | Company                             | Field                         | Work Period       |
+| ----------------------------- | ----------------------------------- | ----------------------------- | ----------------- |
+| **Mark-up Developer**         | **G5 Entertainment AB (G5 Gamees)** | **Playground Platform**       | **2025-04 — now** |
 
 <!--
 <hr width="10%">
