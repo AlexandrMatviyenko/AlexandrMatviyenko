@@ -50,9 +50,9 @@
   💻 Work Experience 
 </h3>
 
-| Job Position                  | Company                             | Field                         | Work Period       |
-| ----------------------------- | ----------------------------------- | ----------------------------- | ----------------- |
-| **Mark-up Developer**         | **G5 Entertainment AB (G5 Games)**  | **Playground Platform**       | **2025-04 — now** |
+| Job Position                  | Company                             | Field                               | Work Period       |
+| ----------------------------- | ----------------------------------- | ----------------------------------- | ----------------- |
+| **Mark-up Developer**         | **G5 Entertainment AB (G5 Games)**  | **Playground Platform (G5 Friends)**| **2025-04 — now** |
 
 <!--
 <hr width="10%">
