@@ -4,9 +4,11 @@
   <samp> 👋 Hi there! I'm Alex </samp>
 </h1>
 
+/*
 <p align="center">
   (Open for Hiring)
 </p>
+*/
 
 <h3 align="center"> 📖 About Me </h3>
 <p align="center"> Aspiring Frontend Developer eager to contribute to innovative projects and collaborate within a dynamic team. With foundational skills I am dedicated to crafting visually appealing and user-friendly interfaces. My passion for web development drives my continuous learning and adaptability, making me a valuable addition to your team as I seek to grow and tackle new challenges. </p>
