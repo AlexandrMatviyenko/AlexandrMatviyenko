@@ -33,7 +33,6 @@
   📜 IT Certificates
 </h3>
 
-- [Frontend Developer Course](https://github.com/AlexandrMatviyenko) <br> @ itLogia | 2024-06 - present | online-course
 - [Frontend Start Intensive](https://itlogia.ru/certificates/intensive/12403-69694) <br> @ itLogia | 2024-06 | online-course
 
 <hr width="10%">
