@@ -23,7 +23,7 @@
   🎓 Education
 </h3>
 
-- $${\color{blue}\text{Bachelor's Degree (BSc)}}$$ <br> Translation Studies (English Language) | GPA - 3.78 / 4
+- $${\color{blue}\text{Bachelor's Degree (BSc)}}$$ <br> Translation Studies (English) | GPA - 3.78 / 4
   <p> Kazakhstan Engineering and Pedagogical University of Friendship of Nations <br> (2012 - 2016) | Kazakhstan </p>
 
 
@@ -43,7 +43,7 @@
 📜 Foreign Language Certificates
 </h3>
 
-- [Upper-intermediate English (B2)](https://github.com/AlexandrMatviyenko) <br> @ Girne American University | 2018-06 | North Cyprus
+- $${\color{blue}\text{Upper-intermediate English (B2)}}$$ <br> @ Girne American University | 2018-06 | North Cyprus
 
 <hr width="10%">
 <br>
