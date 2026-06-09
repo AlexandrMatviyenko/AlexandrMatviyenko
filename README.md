@@ -12,7 +12,6 @@
 
 <h3 align="center"> 📖 About Me </h3>
 <p align="center"> Go Backend Developer focused on building backend services and REST APIs. </p>
-<br>
 <p align="center"> I enjoy working with Go, databases, and authentication systems, and I focus on understanding how real backend applications are designed and work under the hood. </p>
 <p align="center"> 📍 Shymkent, Kazakhstan </p>
 <p align="center"> 🌍 Languages: English, Russian </p>
