@@ -4,9 +4,11 @@
   <samp> 👋 Hi there! I'm Alex </samp>
 </h1>
 
+<!--
 <p align="left">
   (Open for Hiring)
 </p>
+-->
 
 <h3 align="left"> 📖 About Me </h3>
 <p align="left"> Go Backend Developer focused on building backend services and REST APIs. </p>
@@ -23,6 +25,7 @@
 
 - [Bachelor's Degree](https://github.com/AlexandrMatviyenko) (BSc) <br> Translation Studies (English Language) | GPA - 3.78 / 4
   <p> Kazakhstan Engineering and Pedagogical University of Friendship of Nations <br> (2012 - 2016) | Kazakhstan </p>
+  ![badge](https://img.shields.io/badge/Текст-blue)
 
 
 <hr width="10%">
