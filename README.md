@@ -26,7 +26,7 @@
 - [$${\color{blue}\text{Bachelor's Degree}}$$ <br> Translation Studies (English Language) | GPA - 3.78 / 4
   <p> Kazakhstan Engineering and Pedagogical University of Friendship of Nations <br> (2012 - 2016) | Kazakhstan </p>
 [$${\color{blue}\text{Bachelor's Degree}}$$
-$${\color{blue}\text{Синий подчёркнутый текст}}$$
+$${\color{blue}\text{Bachelor's}}$$
 
 <hr width="10%">
 <br>
