@@ -34,8 +34,8 @@
   📜 IT Certificates
 </h3>
 
-- [Frontend Start Intensive](https://itlogia.ru/certificates/intensive/12403-69694) <br> @ itLogia | 2024-06 | online-course
-- [Frontend Start Intensive](https://itlogia.ru/certificates/intensive/12403-69694) <br> @ Stepik | 2026-06 - now | online-course
+- [Frontend Start Intensive](https://itlogia.ru/certificates/intensive/12403-69694) <br> @ itLogia | 2024-06
+- [Программирование на Go для начинающих](https://stepik.org/course/250260) <br> @ Stepik | 2026-06 - now
 
 <hr width="10%">
 <br>
@@ -54,6 +54,8 @@
 </h3>
 
 | Job Position                  | Company                             | Field                               | Work Period       |
+| ----------------------------- | ----------------------------------- | ----------------------------------- | ----------------- |
+| **Mark-up Developer**         | **G5 Entertainment AB (G5 Games)**  | **Playground Platform (G5 Friends)**| **2025-04 — 2025-10** |
 | ----------------------------- | ----------------------------------- | ----------------------------------- | ----------------- |
 | **Mark-up Developer**         | **G5 Entertainment AB (G5 Games)**  | **Playground Platform (G5 Friends)**| **2025-04 — now** |
 
