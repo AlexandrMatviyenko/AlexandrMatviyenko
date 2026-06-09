@@ -4,11 +4,9 @@
   <samp> 👋 Hi there! I'm Alex </samp>
 </h1>
 
-<!--
-<p align="center">
+<p align="left">
   (Open for Hiring)
 </p>
--->
 
 <h3 align="left"> 📖 About Me </h3>
 <p align="left"> Go Backend Developer focused on building backend services and REST APIs. </p>
