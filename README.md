@@ -35,6 +35,7 @@
 </h3>
 
 - [Frontend Start Intensive](https://itlogia.ru/certificates/intensive/12403-69694) <br> @ itLogia | 2024-06 | online-course
+- [Frontend Start Intensive](https://itlogia.ru/certificates/intensive/12403-69694) <br> @ Stepik | 2026-06 - now | online-course
 
 <hr width="10%">
 <br>
