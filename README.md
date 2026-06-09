@@ -53,10 +53,10 @@
   💻 Work Experience 
 </h3>
 
-| Job Position                  | Company                             | Field                               | Work Period       |
-| ----------------------------- | ----------------------------------- | ----------------------------------- | ----------------- |
-| **Mark-up Developer**         | **G5 Entertainment AB (G5 Games)**  | **Playground Platform (G5 Friends)**| **2025-04 — 2025-10** |
-| **Mark-up Developer**         | **G5 Entertainment AB (G5 Games)**  | **Playground Platform (G5 Friends)**| **2025-04 — now** |
+| Job Position                  | Company                             | Field                               | Work Period           |
+| ----------------------------- | ----------------------------------- | ----------------------------------- | --------------------- |
+| **Markup Developer**          | **G5 Entertainment AB (G5 Games)**  | **Playground Platform (G5 Friends)**| **2025-04 — 2025-10** |
+| **Frontend Developer**        | **G5 Entertainment AB (G5 Games)**  | **Playground Platform (G5 Friends)**| **2025-10 — now**     |
 
 <!--
 <hr width="10%">
@@ -76,14 +76,9 @@
   🔔 Get in Touch
 </h3>
 
-<a href="https://www.linkedin.com/in/alexandr-matviyenko">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:TheAlexandrMatviyenko@gmail.com">![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/alexandr-matviyenko">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://t.me/AlexandrMatviyenko">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-
-<hr width="10%">
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrmatviyenko&hide_progress=false)
 
 <hr width="100%">
 <br>
