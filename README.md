@@ -60,7 +60,7 @@
   Education 🎓
 </h3>
 
-- <b> Bachelor's Degree (BSc) </b> <br> Translation Studies | GPA – 3.78 / 4
+- <b> Bachelor's Degree (BSc) </b> <br> Translation Studies (English) | GPA – 3.78 / 4
   <p> Kazakhstan Engineering and Pedagogical University of Friendship of Nations <br> (2012 – 2016) | Shymkent, Kazakhstan </p>
 
 
