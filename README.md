@@ -6,7 +6,10 @@
 </p>
 -->
 
-<h3 align="left"> About Me ⚡ </h3>
+<h3 align="left"> 
+  About Me ⚡ 
+</h3>
+
 <p align="left"> Go Backend Developer focused on building backend services and REST APIs </p>
 <p align="left"> I enjoy working with Go, databases, and authentication systems, and I focus on understanding how real backend applications are designed and work under the hood </p>
 <p align="left"> 🌏 Shymkent, Kazakhstan </p>
@@ -15,7 +18,10 @@
 <hr width="10%">
 <br>
 
-<h3 align="left"> Tech Stack 💻 </h3>
+<h3 align="left"> 
+  Tech Stack 💻 
+</h3>
+
 <p align="left"> <b> Backend Go</b> – HTTP • REST API • JSON • JWT Authentication • Middleware </p>
 <p align="left"> <b> Databases </b> – PostgreSQL • SQL • CRUD Operations • Database Relationships • JOINs </p>
 <p align="left"> <b> Tools </b> – Git • GitHub • Linux </p>
@@ -24,7 +30,7 @@
 <br>
 
 <h3>
-  🎓 Education
+  Education 🎓
 </h3>
 
 - <b> Bachelor's Degree (BSc) </b> <br> Translation Studies (English) | GPA – 3.78 / 4
@@ -35,7 +41,7 @@
 <br>
 
 <h3> 
-  🎖️ Tech Certifications
+  Tech Certifications 🎖️
 </h3>
 
 - [Frontend Start Intensive](https://itlogia.ru/certificates/intensive/12403-69694) <br> @ itLogia | 2024-06
@@ -45,7 +51,7 @@
 <br>
 
 <h3> 
-  🎖️ Language Certifications
+  Language Certifications 🎖️
 </h3>
 
 - <b> Upper-intermediate English (B2) </b> <br> @ Girne American University | 2018-06 | North Cyprus
@@ -54,7 +60,7 @@
 <br>
 
 <h3>
-  🏢 Work Experience 
+  Work Experience 🏢
 </h3>
 
 | Position                      | Company                  | Department                          | Experience (1+ yr)            |
@@ -66,7 +72,7 @@
 <br>
 
 <h3>
-  🤝 Get in Touch
+  Get in Touch 🤝
 </h3>
 
 <a href="mailto:TheAlexandrMatviyenko@gmail.com">![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
