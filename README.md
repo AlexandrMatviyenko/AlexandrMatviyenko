@@ -12,6 +12,9 @@
 <p align="left"> 🌏 Shymkent, Kazakhstan </p>
 <p align="left"> 🔤 English, Russian </p>
 
+<hr width="10%">
+<br>
+
 <h3 align="left"> 💻 Tech Stack </h3>
 <p align="left"> <b> Backend Go</b> – HTTP • REST API • JSON • JWT Authentication • Middleware </p>
 <p align="left"> <b> Databases </b> – PostgreSQL • SQL • CRUD Operations • Database Relationships • JOINs </p>
