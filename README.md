@@ -27,7 +27,7 @@
   🎓 Education
 </h3>
 
-- <b><u> Bachelor's Degree (BSc) </u></b> <br> Translation Studies (English) | GPA – 3.78 / 4
+- <b> Bachelor's Degree (BSc) </b> <br> Translation Studies (English) | GPA – 3.78 / 4
   <p> Kazakhstan Engineering and Pedagogical University of Friendship of Nations <br> (2012 – 2016) | Shymkent, Kazakhstan </p>
 
 
@@ -48,7 +48,7 @@
   🎖️ Language Certifications
 </h3>
 
-- $${\color{blue}\text{Upper-intermediate English (B2)}}$$ <br> @ Girne American University | Jun 2018 | North Cyprus
+- <b> Upper-intermediate English (B2) </b> <br> @ Girne American University | Jun 2018 | North Cyprus
 
 <hr width="10%">
 <br>
