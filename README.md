@@ -10,11 +10,13 @@
 </p>
 -->
 
-<h3 align="left"> 📖 About Me </h3>
+<h3 align="left"> 🛠️ Tech Stack </h3>
 <p align="left"> Go Backend Developer focused on building backend services and REST APIs. </p>
 <p align="left"> I enjoy working with Go, databases, and authentication systems, and I focus on understanding how real backend applications are designed and work under the hood. </p>
 <p align="left"> 📍 Shymkent, Kazakhstan </p>
 <p align="left"> 🌍 Languages: English, Russian </p>
+
+<h3 align="left"> 📖 About Me </h3>
 
 <hr width="10%">
 <br>
