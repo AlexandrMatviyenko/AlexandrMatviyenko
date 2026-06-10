@@ -7,8 +7,8 @@
 -->
 
 <h3 align="left"> About Me ⚡ </h3>
-<p align="left"> Go Backend Developer focused on building backend services and REST APIs. </p>
-<p align="left"> I enjoy working with Go, databases, and authentication systems, and I focus on understanding how real backend applications are designed and work under the hood. </p>
+<p align="left"> Go Backend Developer focused on building backend services and REST APIs </p>
+<p align="left"> I enjoy working with Go, databases, and authentication systems, and I focus on understanding how real backend applications are designed and work under the hood </p>
 <p align="left"> 🌏 Shymkent, Kazakhstan </p>
 <p align="left"> 🔤 English, Russian </p>
 
@@ -38,8 +38,8 @@
   🎖️ Tech Certifications
 </h3>
 
-- [Frontend Start Intensive](https://itlogia.ru/certificates/intensive/12403-69694) <br> @ itLogia | 2024.06
-- [Программирование на Go для начинающих](https://stepik.org/course/250260) <br> @ Stepik | 2026.06 – present
+- [Frontend Start Intensive](https://itlogia.ru/certificates/intensive/12403-69694) <br> @ itLogia | 2024-06
+- [Программирование на Go для начинающих](https://stepik.org/course/250260) <br> @ Stepik | 2026-06 – present
 
 <hr width="10%">
 <br>
@@ -48,7 +48,7 @@
   🎖️ Language Certifications
 </h3>
 
-- <b> Upper-intermediate English (B2) </b> <br> @ Girne American University | 2018.06 | North Cyprus
+- <b> Upper-intermediate English (B2) </b> <br> @ Girne American University | 2018-06 | North Cyprus
 
 <hr width="10%">
 <br>
@@ -59,8 +59,8 @@
 
 | Position                      | Company                  | Department                          | Work Period                     |
 | ----------------------------- | -------------------------| ----------------------------------- | ------------------------------- |
-| **Markup Developer**          | **G5 Entertainment AB**  | **Playground Platform – G5 Friends**| **2025.04 – 2025.10  (6 mo)** |
-| **Frontend Developer**        | **G5 Entertainment AB**  | **Playground Platform – G5 Friends**| **2025.10 – present**          |
+| **Markup Developer**          | **G5 Entertainment AB**  | **Playground Platform – G5 Friends**| **2025-04 – 2025-10  (6 mo)** |
+| **Frontend Developer**        | **G5 Entertainment AB**  | **Playground Platform – G5 Friends**| **2025-10 – present**          |
 
 <hr width="10%">
 <br>
