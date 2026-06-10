@@ -18,14 +18,11 @@
 
 <h3 align="left"> 🛠️ Tech Stack </h3>
 <p align="left"><b> Backend </b></p>
-
-Go • HTTP • REST API • JSON • JWT Authentication • Middleware
-
-Databases
-PostgreSQL • SQL • CRUD Operations • Database Relationships • JOINs
-
-Tools
-Git • GitHub • Linux
+<p align="left"> Go • HTTP • REST API • JSON • JWT Authentication • Middleware </p>
+<p align="left"><b> Databases </b></p>
+<p align="left"> PostgreSQL • SQL • CRUD Operations • Database Relationships • JOINs </p>
+<p align="left"><b> Tools </b></p>
+<p align="left"> Git • GitHub • Linux </p>
 
 <hr width="10%">
 <br>
