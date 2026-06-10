@@ -22,9 +22,36 @@
   Tech Stack 💻 
 </h3>
 
-- <p align="left"> <b> Backend Go</b> – HTTP,REST API, JSON, JWT Authentication, Middleware </p>
-- <p align="left"> <b> Databases </b> – PostgreSQL, SQL, CRUD Operations, Database Relationships, JOINs </p>
+- <p align="left"> <b> Backend </b> – Go • HTTP • REST API • JSON • JWT Authentication • Authorization • Middleware </p>
+- <p align="left"> <b> Databases </b> – PostgreSQL • SQL • CRUD Operations • Database Relationships • JOINs </p>
+- <p align="left"> <b> Concepts </b> – Request → Response Lifecycle • Backend Logic • Stateless Authentication • Session vs JWT • Error Handling </p>
 - <p align="left"> <b> Tools </b> – Git • GitHub • Linux </p>
+
+<!-- WHEN I WILL PASS MIDDLE LEVEL IN STUDY PATH. DELETE PREVIOUS TECH STACK AND USE THIS ONE BELOW
+- <p align="left"> <b> Backend </b> – Go • HTTP • REST API • JSON • JWT Authentication • Authorization • Middleware </p>
+- <p align="left"> <b> Architecture </b> – Clean Architecture • Hexagonal Architecture • Dependency Injection • Service Layer • Repository Pattern • Separation of Concerns • Testability </p>
+- <p align="left"> <b> Concurrency </b> – Goroutines • Channels • Worker Patterns • Race Conditions • Parallel Execution </p>
+- <p align="left"> <b> Databases </b> – PostgreSQL • SQL • CRUD Operations • Database Relationships • JOINs • Indexes </p>
+- <p align="left"> <b> Infrastructure </b> – Docker • Docker Compose • Redis • In-Memory Storage </p>
+- <p align="left"> <b> Background Processing </b> – Background Jobs • Workers • Job Queues • Retry / Backoff • Delayed Tasks • Idempotency </p>
+- <p align="left"> <b> Concepts </b> – Request → Response Lifecycle • Backend Logic • Stateless Authentication • Session vs JWT • Error Handling </p>
+- <p align="left"> <b> Tools </b> – Git • GitHub • Linux </p>
+-->
+
+
+
+<!-- WHEN I WILL PASS SENIOR LEVEL IN STUDY PATH. DELETE PREVIOUS TECH STACK AND USE THIS ONE BELOW
+- <p align="left"> <b> Backend </b> – Go • HTTP • REST API • JSON • JWT Authentication • Authorization • Middleware • gRPC • Microservices </p>
+- <p align="left"> <b> Architecture </b> – Clean Architecture • Hexagonal Architecture • Dependency Injection • Service Layer • Repository Pattern • Separation of Concerns • Testability • System Architecture </p>
+- <p align="left"> <b> Concurrency </b> – Goroutines • Channels • Worker Patterns • Race Conditions • Parallel Execution </p>
+- <p align="left"> <b> Databases </b> – PostgreSQL • SQL • CRUD Operations • Database Relationships • JOINs • Indexes • Database Scaling </p>
+- <p align="left"> <b> Infrastructure </b> – Docker • Docker Compose • Redis • In-Memory Storage </p>
+- <p align="left"> <b> Distributed Systems </b> – Microservices • Distributed Systems • Service Communication • Message Queues • Fault Tolerance </p>
+- <p align="left"> <b> System Design </b> – Scalable Systems • Load Balancing • Caching Strategies • CAP Theorem • Thinking in Trade-offs </p>
+- <p align="left"> <b> Background Processing </b> – Background Jobs • Workers • Job Queues • Retry / Backoff • Delayed Tasks • Idempotency </p>
+- <p align="left"> <b> Concepts </b> – Request → Response Lifecycle • Backend Logic • Stateless Authentication • Session vs JWT • Error Handling </p>
+- <p align="left"> <b> Tools </b> – Git • GitHub • Linux </p>
+-->
 
 <hr width="10%">
 <br>
