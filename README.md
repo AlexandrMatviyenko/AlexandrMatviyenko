@@ -72,7 +72,7 @@
   Tech Certifications ✅
 </h3>
 
-- [Frontend Start Intensive](https://itlogia.ru/certificates/intensive/12403-69694) <br> @ itLogia | 2024-06
+- [Frontend Start Intensive](https://itlogia.ru/certificates/intensive/12403-69694) <br> @ Itlogia | 2024-06
 - [Программирование на Go для начинающих](https://stepik.org/course/250260) <br> @ Stepik | 2026-06 – present
 
 <hr width="10%">
