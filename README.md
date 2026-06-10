@@ -57,10 +57,10 @@
   🏢 Work Experience 
 </h3>
 
-| Position                      | Company                  | Department                          | Work Period                     |
-| ----------------------------- | -------------------------| ----------------------------------- | ------------------------------- |
-| **Markup Developer**          | **G5 Entertainment AB**  | **Playground Platform – G5 Friends**| **2025-04 – 2025-10  (6 mo)** |
-| **Frontend Developer**        | **G5 Entertainment AB**  | **Playground Platform – G5 Friends**| **2025-10 – present**          |
+| Position                      | Company                  | Department                          | Experience (1+ yr)            |
+| ----------------------------- | -------------------------| ----------------------------------- | ------------------------------|
+| **Markup Developer**          | **G5 Entertainment AB**  | **Playground Platform – G5 Friends**| **2025-04 – 2025-10 (6 mo)** |
+| **Frontend Developer**        | **G5 Entertainment AB**  | **Playground Platform – G5 Friends**| **2025-10 – present**         |
 
 <hr width="10%">
 <br>
