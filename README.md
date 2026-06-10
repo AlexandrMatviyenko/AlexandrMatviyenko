@@ -1,22 +1,18 @@
 <img src="https://komarev.com/ghpvc/?username=alexandrmatviyenko" alt="https://github.com/alexandrmatviyenko" />
 
-<h1 align="left">
-  <samp> 👋 Hi there! I'm Alex </samp>
-</h1>
-
 <!--
 <p align="left">
   (Open for Hiring)
 </p>
 -->
 
-<h3 align="left"> 📖 About Me </h3>
+<h3 align="left"> ⚡ About Me </h3>
 <p align="left"> Go Backend Developer focused on building backend services and REST APIs. </p>
 <p align="left"> I enjoy working with Go, databases, and authentication systems, and I focus on understanding how real backend applications are designed and work under the hood. </p>
-<p align="left"> 📍 Shymkent, Kazakhstan </p>
-<p align="left"> 🌍 Languages: English, Russian </p>
+<p align="left"> 🌏 Shymkent, Kazakhstan </p>
+<p align="left"> 🔤 English, Russian </p>
 
-<h3 align="left"> 🛠️ Tech Stack </h3>
+<h3 align="left"> 💻 Tech Stack </h3>
 <p align="left"> <b> Backend Go</b> – HTTP • REST API • JSON • JWT Authentication • Middleware </p>
 <p align="left"> <b> Databases </b> – PostgreSQL • SQL • CRUD Operations • Database Relationships • JOINs </p>
 <p align="left"> <b> Tools </b> – Git • GitHub • Linux </p>
@@ -35,8 +31,8 @@
 <hr width="10%">
 <br>
 
-<h3>
-  📜 IT Certificates
+<h3> 
+  🎖️ Tech Certifications
 </h3>
 
 - [Frontend Start Intensive](https://itlogia.ru/certificates/intensive/12403-69694) <br> @ itLogia | Jun 2024
@@ -45,8 +41,8 @@
 <hr width="10%">
 <br>
 
-<h3>
-📜 Foreign Language Certificates
+<h3> 
+  🎖️ Language Certifications
 </h3>
 
 - $${\color{blue}\text{Upper-intermediate English (B2)}}$$ <br> @ Girne American University | Jun 2018 | North Cyprus
@@ -55,7 +51,7 @@
 <br>
 
 <h3>
-  💻 Work Experience 
+  🏢 Work Experience 
 </h3>
 
 | Job Position                  | Company                  | Department                               | Work Period                |
@@ -63,22 +59,11 @@
 | **Markup Developer**          | **G5 Entertainment AB**  | **Playground Platform / G5 Friends**| **Apr 2025 – Oct 2025  (6 mo)** |
 | **Frontend Developer**        | **G5 Entertainment AB**  | **Playground Platform / G5 Friends**| **Oct 2025 – present**          |
 
-<!--
 <hr width="10%">
 <br>
 
 <h3>
-  ⚡ Hackathon Participation
-</h3>
-
-- [Hackathon Name or which devote it to](https://Hackathon Adress) @ The organization that is holding the hackathon  | YYYY-MTH | Place
--->
-
-<hr width="10%">
-<br>
-
-<h3>
-  🔔 Get in Touch
+  🤝 Get in Touch
 </h3>
 
 <a href="mailto:TheAlexandrMatviyenko@gmail.com">![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
