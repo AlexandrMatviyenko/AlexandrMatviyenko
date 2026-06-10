@@ -17,7 +17,7 @@
 <p align="left"> 🌍 Languages: English, Russian </p>
 
 <h3 align="left"> 🛠️ Tech Stack </h3>
-<p align="left"><b> Backend Go • HTTP • REST API • JSON • JWT Authentication • Middleware </b></p>
+<p align="left"><b>Backend Go</b> – • HTTP • REST API • JSON • JWT Authentication • Middleware </p>
 <p align="left"><b> Databases </b></p>
 <p align="left"> PostgreSQL • SQL • CRUD Operations • Database Relationships • JOINs </p>
 <p align="left"><b> Tools </b></p>
@@ -31,7 +31,7 @@
 </h3>
 
 - $${\color{blue}\text{Bachelor's Degree (BSc)}}$$ <br> Translation Studies (English) | GPA – 3.78 / 4
-  <p> Kazakhstan Engineering and Pedagogical University of Friendship of Nations <br> (2012 – 2016) | Kazakhstan </p>
+  <p> Kazakhstan Engineering and Pedagogical University of Friendship of Nations <br> (2012 – 2016) | Shymkent, Kazakhstan </p>
 
 
 <hr width="10%">
@@ -42,7 +42,7 @@
 </h3>
 
 - [Frontend Start Intensive](https://itlogia.ru/certificates/intensive/12403-69694) <br> @ itLogia | Jun 2024
-- [Программирование на Go для начинающих](https://stepik.org/course/250260) <br> @ Stepik | Jun 2024 – present
+- [Программирование на Go для начинающих](https://stepik.org/course/250260) <br> @ Stepik | Jun 2026 – present
 
 <hr width="10%">
 <br>
