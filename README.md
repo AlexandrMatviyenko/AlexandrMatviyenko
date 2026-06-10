@@ -17,8 +17,7 @@
 <p align="left"> 🌍 Languages: English, Russian </p>
 
 <h3 align="left"> 🛠️ Tech Stack </h3>
-<p align="left"><b> Backend </b></p>
-<p align="left"> Go • HTTP • REST API • JSON • JWT Authentication • Middleware </p>
+<p align="left"><b> Backend Go • HTTP • REST API • JSON • JWT Authentication • Middleware </b></p>
 <p align="left"><b> Databases </b></p>
 <p align="left"> PostgreSQL • SQL • CRUD Operations • Database Relationships • JOINs </p>
 <p align="left"><b> Tools </b></p>
@@ -31,8 +30,8 @@
   🎓 Education
 </h3>
 
-- $${\color{blue}\text{Bachelor's Degree (BSc)}}$$ <br> Translation Studies (English) | GPA - 3.78 / 4
-  <p> Kazakhstan Engineering and Pedagogical University of Friendship of Nations <br> (2012 - 2016) | Kazakhstan </p>
+- $${\color{blue}\text{Bachelor's Degree (BSc)}}$$ <br> Translation Studies (English) | GPA – 3.78 / 4
+  <p> Kazakhstan Engineering and Pedagogical University of Friendship of Nations <br> (2012 – 2016) | Kazakhstan </p>
 
 
 <hr width="10%">
@@ -42,8 +41,8 @@
   📜 IT Certificates
 </h3>
 
-- [Frontend Start Intensive](https://itlogia.ru/certificates/intensive/12403-69694) <br> @ itLogia | 2024-06
-- [Программирование на Go для начинающих](https://stepik.org/course/250260) <br> @ Stepik | 2026-06 - present
+- [Frontend Start Intensive](https://itlogia.ru/certificates/intensive/12403-69694) <br> @ itLogia | Jun 2024
+- [Программирование на Go для начинающих](https://stepik.org/course/250260) <br> @ Stepik | Jun 2024 – present
 
 <hr width="10%">
 <br>
@@ -52,7 +51,7 @@
 📜 Foreign Language Certificates
 </h3>
 
-- $${\color{blue}\text{Upper-intermediate English (B2)}}$$ <br> @ Girne American University | 2018-06 | North Cyprus
+- $${\color{blue}\text{Upper-intermediate English (B2)}}$$ <br> @ Girne American University | Jun 2018 | North Cyprus
 
 <hr width="10%">
 <br>
