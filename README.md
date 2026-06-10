@@ -68,7 +68,7 @@
 <br>
 
 <h3> 
-  Tech Certifications 🎖️
+  Tech Certifications ✅
 </h3>
 
 - [Frontend Start Intensive](https://itlogia.ru/certificates/intensive/12403-69694) <br> @ itLogia | 2024-06
@@ -78,7 +78,7 @@
 <br>
 
 <h3> 
-  Language Certifications 🎖️
+  Language Certifications ✅
 </h3>
 
 - <b> Upper-intermediate English (B2) </b> <br> @ Girne American University | 2018-06 | North Cyprus
