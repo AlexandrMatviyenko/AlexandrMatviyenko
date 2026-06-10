@@ -25,7 +25,7 @@
 - <p align="left"> <b> Backend </b> – Go • HTTP • REST API • JSON • JWT Authentication • Authorization • Middleware </p>
 - <p align="left"> <b> Databases </b> – PostgreSQL • SQL • CRUD Operations • Database Relationships • JOINs </p>
 - <p align="left"> <b> Concepts </b> – Request → Response Lifecycle • Backend Logic • Stateless Authentication • Session vs JWT • Error Handling </p>
-- <p align="left"> <b> Workflow & Tools </b> – Tools – Git • GitHub • SVN • VS Code • Visual Studio • WebStorm • Jira • Confluence • Phabricator (Code Review) </p>
+- <p align="left"> <b> Tools </b> – Tools – Git • GitHub • SVN • Jira • Confluence • Phabricator (Code Review) </p>
 - <p align="left"> <b> Additional Experience </b> – Squirrel • HTML • CSS• Bootstrap • Vanilla JS • jQuery • Figma </p>
 
 <!-- WHEN I WILL PASS MIDDLE LEVEL IN STUDY PATH. DELETE PREVIOUS TECH STACK AND USE THIS ONE BELOW
