@@ -21,36 +21,56 @@
 <h3 align="left"> 
   Tech Stack 💻 
 </h3>
-<!--
-- <p align="left"> <b> Backend </b> – Go • HTTP • REST API • JSON • JWT Authentication • Authorization • Middleware </p>
-- <p align="left"> <b> Databases </b> – PostgreSQL • SQL • CRUD Operations • Database Relationships • JOINs </p>
-- <p align="left"> <b> Concepts </b> – Request → Response Lifecycle • Backend Logic • Stateless Authentication • Session vs JWT • Error Handling </p>
-- <p align="left"> <b> Tools </b> – Tools – Git • GitHub • SVN • Jira • Confluence • Phabricator (Code Review) </p>
+
+- <p align="left"> <b> Backend </b> – Go • HTTP • REST API • JSON • JWT Authentication • Authorization • Middleware • API Design • Password Hashing • Input Validation </p>
+- <p align="left"> <b> Databases </b> – PostgreSQL • SQL • CRUD Operations • Database Relationships • JOINs • Indexes • Transactions • Database Migrations </p>
+- <p align="left"> <b> Architecture </b> – Service Layer • Repository Pattern • Separation of Concerns • Clean Architecture Basics • Dependency Injection Basics • Testability </p>
+- <p align="left"> <b> Testing </b> – Unit Testing • Table-Driven Tests • httptest • Integration Testing • Mocking </p>
+- <p align="left"> <b> Concepts </b> – Request → Response Lifecycle • Backend Logic • Stateless Authentication • Session vs JWT • Error Handling • Authentication • Authorization • Roles & Permissions </p>
+- <p align="left"> <b> Tools </b> – Git • GitHub • GitHub Pull Requests • Code Review • SVN • Jira • Confluence • Phabricator </p>
 - <p align="left"> <b> Additional Experience </b> – Squirrel • HTML • CSS • Bootstrap • Vanilla JS • jQuery • Figma </p>
 
-<!-- Middle Backend Engineer (Go) WHEN I WILL PASS MIDDLE LEVEL IN STUDY PATH. DELETE PREVIOUS TECH STACK AND USE THIS ONE BELOW. ALSO REDESIGN STRUCTURE BECAUSE WE HAVE A LOT OF UNREADABLE WORD VISUALLY-->
-- <p align="left"> <b> Backend </b> – Go • HTTP • REST API • JSON • JWT Authentication • Authorization • Middleware </p>
-- <p align="left"> <b> Architecture </b> – Clean Architecture • Hexagonal Architecture • Dependency Injection • Service Layer • Repository Pattern • Separation of Concerns • Testability </p>
-- <p align="left"> <b> Concurrency </b> – Goroutines • Channels • Worker Patterns • Race Conditions • Parallel Execution </p>
-- <p align="left"> <b> Databases </b> – PostgreSQL • SQL • CRUD Operations • Database Relationships • JOINs • Indexes • MongoDB </p>
-- <p align="left"> <b> Infrastructure </b> – Docker • Docker Compose • Railway • Redis • In-Memory Storage </p>
-- <p align="left"> <b> Background Processing </b> – Background Jobs • Workers • Job Queues • Retry / Backoff • Delayed Tasks • Idempotency </p>
-- <p align="left"> <b> Concepts </b> – Request → Response Lifecycle • Backend Logic • Stateless Authentication • Session vs JWT • Error Handling </p>
-- <p align="left"> <b> Workflow & Tools </b> – Tools – Git • GitHub • VS Code • Visual Studio • WebStorm • Jira • Confluence • Phabricator (Code Review) </p>
+<!-- Middle Backend Engineer + AI (Go) WHEN I WILL PASS MIDDLE LEVEL IN STUDY PATH. DELETE PREVIOUS TECH STACK AND USE THIS ONE BELOW. ALSO REDESIGN STRUCTURE BECAUSE WE HAVE A LOT OF UNREADABLE WORD VISUALLY
+- <p align="left"> <b> Backend </b> – Go • HTTP • REST API • JSON • gRPC • JWT Authentication • Authorization • Middleware • API Design </p>
+- <p align="left"> <b> Architecture </b> – Clean Architecture • Hexagonal Architecture • Dependency Injection • Service Layer • Repository Pattern • Separation of Concerns • SOLID • Testability • Domain-Driven Design Basics </p>
+- <p align="left"> <b> Concurrency </b> – Goroutines • Channels • Context • Mutex • Worker Patterns • Race Conditions • Parallel Execution • Graceful Shutdown </p>
+- <p align="left"> <b> Databases </b> – PostgreSQL • SQL • CRUD Operations • Database Relationships • JOINs • Indexes • Transactions • Database Migrations • MongoDB </p>
+- <p align="left"> <b> Caching & Storage </b> – Redis • Caching • TTL • In-Memory Storage • Cache Invalidation </p>
+- <p align="left"> <b> Infrastructure </b> – Docker • Docker Compose • Kubernetes • Railway • AWS • Containerization • Service Deployment </p>
+- <p align="left"> <b> Background Processing </b> – Background Jobs • Workers • Job Queues • Retry / Backoff • Delayed Tasks • Idempotency • Dead Letter Queues </p>
+- <p align="left"> <b> Messaging & Distributed Systems </b> – Kafka • Event-Driven Architecture • Message Brokers • Consumer Groups • Topics • Partitions • Asynchronous Communication • Distributed Systems Fundamentals </p>
+- <p align="left"> <b> Observability </b> – Structured Logging • slog • zap • Request ID • Correlation ID • Metrics • Distributed Tracing • OpenTelemetry </p>
+- <p align="left"> <b> Security </b> – Authentication • Authorization • Access Control • JWT • Password Hashing • SQL Injection • REST API Security • Rate Limiting • OWASP Basics </p>
+- <p align="left"> <b> Testing & CI/CD </b> – Unit Testing • Table-Driven Tests • Integration Testing • httptest • Mocking • GitHub Actions • CI/CD </p>
+- <p align="left"> <b> AI & LLM Engineering </b> – LLM APIs • Prompt Engineering • Structured Outputs • Streaming • Tool / Function Calling • Embeddings • Vector Databases • Semantic Search • RAG • AI Agents • AI Evaluation • AI Security </p>
+- <p align="left"> <b> AI Stack </b> – Python • FastAPI • Pydantic • OpenAI API • Anthropic API • Gemini API • Qdrant • pgvector • LangGraph • LlamaIndex </p>
+- <p align="left"> <b> AI + Backend </b> – Go + AI Integration • Go ↔ Python Services • AI Microservices • RAG Backends • AI-powered APIs • Tool-based AI Systems • AI Agents • Production AI Systems </p>
+- <p align="left"> <b> AI Infrastructure </b> – Model Serving • Inference • GPU Basics • AI Workloads • Kubernetes for AI • AI Observability • AI Cost Optimization </p>
+- <p align="left"> <b> Concepts </b> – Request → Response Lifecycle • Backend Logic • Stateless Authentication • Session vs JWT • Error Handling • Scalability • Availability • Reliability • System Design • Distributed Systems </p>
+- <p align="left"> <b> Workflow & Tools </b> – Git • GitHub • VS Code • Visual Studio • WebStorm • Jira • Confluence • Phabricator • Code Review </p>
 - <p align="left"> <b> Additional Experience </b> – Squirrel • HTML • CSS • Bootstrap • Vanilla JS • jQuery • Figma • React • Next.js • Tailwind CSS • Node.js • Stripe • LemonSqueezy </p>
-
+-->
 
 <!-- Senior Backend / Distributed Systems Engineer (Go) WHEN I WILL PASS SENIOR LEVEL IN STUDY PATH. DELETE PREVIOUS TECH STACK AND USE THIS ONE BELOW. ALSO REDESIGN STRUCTURE BECAUSE WE HAVE A LOT OF UNREADABLE WORD VISUALLY
-- <p align="left"> <b> Backend </b> – Go • HTTP • REST API • JSON • JWT Authentication • Authorization • Middleware • gRPC • Microservices </p>
-- <p align="left"> <b> Architecture </b> – Clean Architecture • Hexagonal Architecture • Dependency Injection • Service Layer • Repository Pattern • Separation of Concerns • Testability • System Architecture </p>
-- <p align="left"> <b> Concurrency </b> – Goroutines • Channels • Worker Patterns • Race Conditions • Parallel Execution </p>
-- <p align="left"> <b> Databases </b> – PostgreSQL • SQL • CRUD Operations • Database Relationships • JOINs • Indexes • Database Scaling • MongoDB </p>
-- <p align="left"> <b> Infrastructure </b> – Docker • Docker Compose • Railway • Redis • In-Memory Storage </p>
-- <p align="left"> <b> Distributed Systems </b> – Microservices • Distributed Systems • Service Communication • Message Queues • Fault Tolerance </p>
-- <p align="left"> <b> System Design </b> – Scalable Systems • Load Balancing • Caching Strategies • CAP Theorem • Thinking in Trade-offs </p>
-- <p align="left"> <b> Background Processing </b> – Background Jobs • Workers • Job Queues • Retry / Backoff • Delayed Tasks • Idempotency </p>
-- <p align="left"> <b> Concepts </b> – Request → Response Lifecycle • Backend Logic • Stateless Authentication • Session vs JWT • Error Handling </p>
-- <p align="left"> <b> Workflow & Tools </b> – Tools – Git • GitHub • VS Code • Visual Studio • WebStorm • Jira • Confluence • Phabricator (Code Review) </p>
+- <p align="left"> <b> Backend </b> – Go • HTTP • REST API • JSON • gRPC • JWT Authentication • Authorization • Middleware • API Design </p>
+- <p align="left"> <b> Architecture </b> – Clean Architecture • Hexagonal Architecture • Dependency Injection • Service Layer • Repository Pattern • Separation of Concerns • SOLID • Testability • Domain-Driven Design Basics • System Architecture • Architecture Patterns • Design Trade-offs </p>
+- <p align="left"> <b> Concurrency </b> – Goroutines • Channels • Context • Mutex • Worker Patterns • Race Conditions • Parallel Execution • Graceful Shutdown • Concurrent Programming </p>
+- <p align="left"> <b> Databases </b> – PostgreSQL • SQL • CRUD Operations • Database Relationships • JOINs • Indexes • Transactions • Database Migrations • Database Replication • Database Scaling • MongoDB </p>
+- <p align="left"> <b> Caching & Storage </b> – Redis • Caching • TTL • In-Memory Storage • Cache Invalidation • Distributed Caching • Caching Strategies </p>
+- <p align="left"> <b> Infrastructure </b> – Docker • Docker Compose • Kubernetes • Railway • AWS • Containerization • Service Deployment • Load Balancing • Horizontal Scaling </p>
+- <p align="left"> <b> Background Processing </b> – Background Jobs • Workers • Job Queues • Retry / Backoff • Delayed Tasks • Idempotency • Dead Letter Queues </p>
+- <p align="left"> <b> Messaging & Distributed Systems </b> – Kafka • Event-Driven Architecture • Message Brokers • Consumer Groups • Topics • Partitions • Asynchronous Communication • Distributed Systems Fundamentals • Fault Tolerance • Service Communication • Message Queues </p>
+- <p align="left"> <b> Microservices </b> – Microservice Architecture • Service Decomposition • Service Discovery • Inter-Service Communication • gRPC • API Gateway • Distributed Transactions • Fault Isolation • Resilience Patterns </p>
+- <p align="left"> <b> System Design </b> – Scalable Systems • High-Load Backend • Load Balancing • Database Scaling • Database Replication • Sharding • Caching Strategies • CAP Theorem • Consistency • Availability • Reliability • Fault Tolerance • Scalability • System Architecture • Architectural Trade-offs </p>
+- <p align="left"> <b> Observability </b> – Structured Logging • slog • zap • Request ID • Correlation ID • Metrics • Distributed Tracing • OpenTelemetry • System Monitoring </p>
+- <p align="left"> <b> Security </b> – Authentication • Authorization • Access Control • JWT • Password Hashing • SQL Injection • REST API Security • Rate Limiting • OWASP Basics • Service-to-Service Security </p>
+- <p align="left"> <b> Testing & CI/CD </b> – Unit Testing • Table-Driven Tests • Integration Testing • httptest • Mocking • GitHub Actions • CI/CD • Automated Testing • Deployment Pipelines </p>
+- <p align="left"> <b> AI & LLM Engineering </b> – LLM APIs • Prompt Engineering • Structured Outputs • Streaming • Tool / Function Calling • Embeddings • Vector Databases • Semantic Search • RAG • AI Agents • AI Evaluation • AI Security </p>
+- <p align="left"> <b> AI Stack </b> – Python • FastAPI • Pydantic • OpenAI API • Anthropic API • Gemini API • Qdrant • pgvector • LangGraph • LlamaIndex </p>
+- <p align="left"> <b> AI + Backend </b> – Go + AI Integration • Go ↔ Python Services • AI Microservices • RAG Backends • AI-powered APIs • Tool-based AI Systems • AI Agents • Production AI Systems </p>
+- <p align="left"> <b> AI Infrastructure </b> – Model Serving • Inference • GPU Basics • AI Workloads • Kubernetes for AI • AI Observability • AI Cost Optimization </p>
+- <p align="left"> <b> Concepts </b> – Request → Response Lifecycle • Backend Logic • Stateless Authentication • Session vs JWT • Error Handling • Scalability • Availability • Reliability • System Design • Distributed Systems • High Availability • Fault Tolerance • Performance Optimization • Architectural Trade-offs </p>
+- <p align="left"> <b> Workflow & Tools </b> – Git • GitHub • VS Code • Visual Studio • WebStorm • Jira • Confluence • Phabricator • Code Review </p>
 - <p align="left"> <b> Additional Experience </b> – Squirrel • HTML • CSS • Bootstrap • Vanilla JS • jQuery • Figma • React • Next.js • Tailwind CSS • Node.js • Stripe • LemonSqueezy </p>
 -->
 
