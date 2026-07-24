@@ -28,7 +28,7 @@
 - <p align="left"> <b> Tools </b> – Tools – Git • GitHub • SVN • Jira • Confluence • Phabricator (Code Review) </p>
 - <p align="left"> <b> Additional Experience </b> – Squirrel • HTML • CSS • Bootstrap • Vanilla JS • jQuery • Figma </p>
 
-<!-- Middle Backend Engineer (Go) WHEN I WILL PASS MIDDLE LEVEL IN STUDY PATH. DELETE PREVIOUS TECH STACK AND USE THIS ONE BELOW. ALSO REDESIGN STRUCTURE BECAUSE WE HAVE A LOT OF UNREADABLE WORD VISUALLY
+<!-- Middle Backend Engineer (Go) WHEN I WILL PASS MIDDLE LEVEL IN STUDY PATH. DELETE PREVIOUS TECH STACK AND USE THIS ONE BELOW. ALSO REDESIGN STRUCTURE BECAUSE WE HAVE A LOT OF UNREADABLE WORD VISUALLY-->
 - <p align="left"> <b> Backend </b> – Go • HTTP • REST API • JSON • JWT Authentication • Authorization • Middleware </p>
 - <p align="left"> <b> Architecture </b> – Clean Architecture • Hexagonal Architecture • Dependency Injection • Service Layer • Repository Pattern • Separation of Concerns • Testability </p>
 - <p align="left"> <b> Concurrency </b> – Goroutines • Channels • Worker Patterns • Race Conditions • Parallel Execution </p>
@@ -38,7 +38,7 @@
 - <p align="left"> <b> Concepts </b> – Request → Response Lifecycle • Backend Logic • Stateless Authentication • Session vs JWT • Error Handling </p>
 - <p align="left"> <b> Workflow & Tools </b> – Tools – Git • GitHub • VS Code • Visual Studio • WebStorm • Jira • Confluence • Phabricator (Code Review) </p>
 - <p align="left"> <b> Additional Experience </b> – Squirrel • HTML • CSS • Bootstrap • Vanilla JS • jQuery • Figma • React • Next.js • Tailwind CSS • Node.js • Stripe • LemonSqueezy </p>
--->
+
 
 <!-- Senior Backend / Distributed Systems Engineer (Go) WHEN I WILL PASS SENIOR LEVEL IN STUDY PATH. DELETE PREVIOUS TECH STACK AND USE THIS ONE BELOW. ALSO REDESIGN STRUCTURE BECAUSE WE HAVE A LOT OF UNREADABLE WORD VISUALLY
 - <p align="left"> <b> Backend </b> – Go • HTTP • REST API • JSON • JWT Authentication • Authorization • Middleware • gRPC • Microservices </p>
