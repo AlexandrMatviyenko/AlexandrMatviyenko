@@ -101,7 +101,7 @@
   English Certifications ✅
 </h3>
 
-- <b> Upper-intermediate English (B2) </b> <br> @ Girne American University | 2018-06 | North Cyprus
+- <b> Upper-intermediate English – B2 </b> <br> Girne American University | 2018-06 | North Cyprus
 
 <hr width="10%">
 <br>
