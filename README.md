@@ -81,7 +81,7 @@
   Education 🎓
 </h3>
 
-- <b> Bachelor's Degree (BSc) </b> <br> Translation Studies (English) | GPA – 3.78 / 4
+- <b> Bachelor's Degree </b> <br> Translation Studies | GPA – 3.78 / 4
   <p> Kazakhstan Engineering and Pedagogical University of Friendship of Nations <br> (2012 – 2016) | Shymkent, Kazakhstan </p>
 
 
@@ -92,7 +92,7 @@
   Professional Development ✅
 </h3>
 
-- [Programming in Go](https://stepik.org/course/250260) <br> @ Stepik | 2026-06 – present
+- [Programming in Go](https://stepik.org/course/250260) <br> Stepik | 2026-06 – present
 
 <hr width="10%">
 <br>
