@@ -89,7 +89,7 @@
   English Certifications ✅
 </h3>
 
-- <b> Girne American University </b> (North Cyprus) <br> <b> Level: </b> B2 (Upper Intermediate) <br> <b> Issued: </b> 2018
+- Girne American University (North Cyprus) <br> Level: B2 (Upper Intermediate) <br> Issued: 2018
 
 <!-- Patterns
 - <b> Cambridge English: C1 Advanced (CAE) </b> <br> Level: C1
