@@ -4,15 +4,19 @@
 Backend Developer (Go) - изменить с Frontend Developer в блоке персональной информации слева
 -->
 
-<!--
+
 <h3 align="left"> 
   About Me ⚡ 
 </h3>
-
-<p align="left"> Go Backend Engineer focused on building backend services and REST APIs </p>
+<p align="left"> Frontend Developer focused on building modern, responsive, and accessible web applications with clean, maintainable code. I enjoy transforming complex ideas into intuitive user experiences, paying close attention to performance, usability, and implementation quality. Always looking to deepen my technical expertise, embrace new challenges, and collaborate with teams that value thoughtful engineering and continuous improvement. </p>
+<p align="left"> 🌏 Shymkent, Kazakhstan </p>
+<p align="left"> 🔤 English – B2 | Russian – Native </p>
+<!-- Вернуть когда буду упаковывать профиль под бэкендера
+<p align="left"> Go Backend Developer focused on building backend services and REST APIs </p>
 <p align="left"> I enjoy working with Go, databases, and authentication systems, and I focus on understanding how real backend applications are designed and work under the hood </p>
 <p align="left"> 🌏 Shymkent, Kazakhstan </p>
 <p align="left"> 🔤 English – B2 | Russian – Native </p>
+-->
 
 <hr width="10%">
 <br>
@@ -90,6 +94,7 @@ Backend Developer (Go) - изменить с Frontend Developer в блоке п
 <hr width="10%">
 <br>
 
+<!--
 <h3> 
   Professional Development ✅
 </h3>
@@ -98,6 +103,7 @@ Backend Developer (Go) - изменить с Frontend Developer в блоке п
 
 <hr width="10%">
 <br>
+-->
 
 <h3> 
   English Certifications ✅
