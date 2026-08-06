@@ -89,11 +89,7 @@
   English Certifications ✅
 </h3>
 
-- <b> Upper-Intermediate English – B2 </b> <br> Girne American University, North Cyprus
-
-- <b> Cambridge English: C1 Advanced (CAE) </b> <br> Level: C1
-
-- <b> IELTS Academic </b> <br> Overall Band: 7.5 (C1) <br> Issued: June 2026
+- <b> Girne American University, North Cyprus </b> <br> Level: B2 Upper Intermediate <br> Issued: June 2018
 
 <!-- Patterns
 - <b> Cambridge English: C1 Advanced (CAE) </b> <br> Level: C1
