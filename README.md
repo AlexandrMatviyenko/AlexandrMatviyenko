@@ -1,11 +1,10 @@
 <img src="https://komarev.com/ghpvc/?username=alexandrmatviyenko" alt="https://github.com/alexandrmatviyenko" />
 
 <!--
-<p align="left">
-  (Open for Hiring)
-</p>
+Backend Developer (Go) - изменить с Frontend Developer в блоке персональной информации слева
 -->
 
+<!--
 <h3 align="left"> 
   About Me ⚡ 
 </h3>
@@ -17,7 +16,9 @@
 
 <hr width="10%">
 <br>
+-->
 
+<!--
 <h3 align="left"> 
   Tech Stack 💻 
 </h3>
@@ -29,6 +30,7 @@
 - <p align="left"> <b> Concepts </b> – Request → Response Lifecycle • Backend Logic • Stateless Authentication • Session vs JWT • Error Handling • Authentication • Authorization • Roles & Permissions </p>
 - <p align="left"> <b> Tools </b> – Git • GitHub • GitHub Pull Requests • Code Review • SVN • Jira • Confluence • Phabricator </p>
 - <p align="left"> <b> Additional Experience </b> – Squirrel • HTML • CSS • Bootstrap • Vanilla JS • jQuery • Figma </p>
+-->
 
 <!-- Middle Backend Engineer + AI (Go) WHEN I WILL PASS MIDDLE LEVEL IN STUDY PATH. DELETE PREVIOUS TECH STACK AND USE THIS ONE BELOW. ALSO REDESIGN STRUCTURE BECAUSE WE HAVE A LOT OF UNREADABLE WORD VISUALLY
 - <p align="left"> <b> Backend </b> – Go • HTTP • REST API • JSON • gRPC • JWT Authentication • Authorization • Middleware • API Design </p>
