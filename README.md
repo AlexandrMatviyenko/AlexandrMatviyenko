@@ -99,11 +99,10 @@
 <h3>
   Work Experience 🏢
 </h3>
-<!--
+
 | Company | Role | Period |
 |---------|------|--------|
-| **G5 Entertainment AB** | **Frontend Developer** | **2023 – Present** |
--->
+| **G5 Entertainment AB** | **Frontend Developer** | **2025 – Present** |
 
 <hr width="10%">
 <br>
