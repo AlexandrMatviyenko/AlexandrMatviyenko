@@ -20,7 +20,6 @@ Backend Developer (Go) - изменить с Frontend Developer в блоке п
 
 <hr width="10%">
 <br>
--->
 
 <!--
 <h3 align="left"> 
