@@ -71,7 +71,7 @@
   Education 🎓
 </h3>
 
-- <b> Bachelor's Degree in Translation Studies </b> <br>Kazakhstan Engineering and Pedagogical University of Friendship of Nations <br> 2012 – 2016, Shymkent, Kazakhstan
+- Kazakhstan Engineering and Pedagogical University of Friendship of Nations (Shymkent, Kazakhstan) <br> Bachelor's Degree in Translation Studies <br> Graduated: 2016
 
 <hr width="10%">
 <br>
@@ -80,7 +80,14 @@
   Professional Development ✅
 </h3>
 
-- [Programming in Go](https://stepik.org/course/250260) <br> Stepik | 2026-06 – present
+- [Programming in Go – Stepik](https://stepik.org/course/250260) <br> Issued: 2026
+
+<!-- Patterns
+- [AWS Certified Cloud Practitioner](https://github.com/AlexandrMatviyenko) <br> Issued: 2027
+- [AWS Certified Developer – Associate](https://github.com/AlexandrMatviyenko) <br> Issued: 2027
+- [AWS Certified Solutions Architect – Associate](https://github.com/AlexandrMatviyenko) <br> Issued: 2027
+- [AWS Certified Solutions Architect – Professional](https://github.com/AlexandrMatviyenko) <br> Issued: 2027
+-->
 
 <hr width="10%">
 <br>
@@ -89,21 +96,21 @@
   English Certifications ✅
 </h3>
 
-- Multicultural Summer School (Girne American University, North Cyprus) <br> Level: B2 (Upper Intermediate) <br> Issued: 2018
+- Multicultural Summer School (Girne American University, North Cyprus) <br> Level: B2 <br> Issued: 2018
 
 <!-- Patterns
-- Cambridge English (CAE) <br> Level: C1 (Advanced) <br> Issued: 2018
-- Cambridge English B2 First (FCE) <br> Level: B2 ((Upper Intermediate)) <br> Issued: 2018
+- Cambridge English (CAE) <br> Level: C1 <br> Issued: 2018
+- Cambridge English B2 First (FCE) <br> Level: B2 <br> Issued: 2018
 
 Если это IELTS
-- IELTS Academic <br> Overall Band: 7.5 (C1, Advanced) <br> Issued: June 2026
-- IELTS General <br> Overall Band:  8.0 (C1, Advanced) <br> Issued: June 2026
+- IELTS Academic <br> Overall Band: 7.5 (C1) <br> Issued: June 2026
+- IELTS General <br> Overall Band:  8.0 (C1) <br> Issued: June 2026
 
 Если TOEFL
-- TOEFL iBT <br> Score: 102/120 (C1, Advanced) <br> Issued: June 2026
+- TOEFL iBT <br> Score: 102/120 (C1) <br> Issued: June 2026
 
 Если Pearson (PTE)
-- PTE Academic <br> Score: 76 (C1, Advanced) <br> Issued: June 2026
+- PTE Academic <br> Score: 76 (C1) <br> Issued: June 2026
 -->
 
 <hr width="10%">
