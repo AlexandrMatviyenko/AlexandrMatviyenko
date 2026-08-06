@@ -71,8 +71,7 @@
   Education 🎓
 </h3>
 
-- <b> Bachelor's Degree Translation Studies </b>
-  <p> Kazakhstan Engineering and Pedagogical University of Friendship of Nations <br> 2012 – 2016 | Shymkent, Kazakhstan </p>
+- <b> Bachelor's Degree Translation Studies </b> <br>Kazakhstan Engineering and Pedagogical University of Friendship of Nations <br> 2012 – 2016 | Shymkent, Kazakhstan
 
 <hr width="10%">
 <br>
