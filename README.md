@@ -5,7 +5,6 @@
 </h3>
 
 <p align="left"> Frontend Developer focused on building modern, responsive, and accessible web applications with clean, maintainable code. I enjoy transforming complex ideas into intuitive user experiences, paying close attention to performance, usability, and implementation quality. Always looking to deepen my technical expertise, embrace new challenges, and collaborate with teams that value thoughtful engineering and continuous improvement. </p>
-<b> Upper-Intermediate English – B2 </b> <br> Girne American University, North Cyprus
 <p align="left"> <b> 🌏 Languages <br> English (B2) <br> Russian (Native) </p>
 <!-- Вернуть когда буду упаковывать профиль под бэкендера
 <p align="left"> Go Backend Developer focused on building backend services and REST APIs </p>
