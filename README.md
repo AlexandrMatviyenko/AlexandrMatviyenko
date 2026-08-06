@@ -89,23 +89,21 @@
   English Certifications ✅
 </h3>
 
-- Girne American University (North Cyprus) <br> Level: B2 (Upper Intermediate) <br> Issued: 2018
+- Multicultural Summer School (Girne American University, North Cyprus) <br> Level: B2 (Upper Intermediate) <br> Issued: 2018
 
 <!-- Patterns
-- <b> Cambridge English: C1 Advanced (CAE) </b> <br> Level: C1
-
-- <b> Cambridge English: B2 First (FCE) </b> <br> Level: B2
+- Cambridge English (CAE) <br> Level: C1 (Advanced) <br> Issued: 2018
+- Cambridge English B2 First (FCE) <br> Level: B2 ((Upper Intermediate)) <br> Issued: 2018
 
 Если это IELTS
-- <b> IELTS Academic </b> <br> Overall Band: 7.5 (C1) <br> Issued: June 2026
-- <b> IELTS General </b> <br> Overall Band: 8.0 (C1) <br> Issued: June 2026
-- <b> IELTS Academic </b> <br> Overall Band: 7.5 (C1) <br> Issued: June 2026
+- IELTS Academic <br> Overall Band: 7.5 (C1, Advanced) <br> Issued: June 2026
+- IELTS General <br> Overall Band:  8.0 (C1, Advanced) <br> Issued: June 2026
 
 Если TOEFL
-- <b> TOEFL iBT </b> <br> Score: 102/120 (C1) <br> Issued: June 2026
+- TOEFL iBT <br> Score: 102/120 (C1, Advanced) <br> Issued: June 2026
 
 Если Pearson (PTE)
-- <b> PTE Academic </b> <br> Score: 76 (C1) <br> Issued: June 2026
+- PTE Academic <br> Score: 76 (C1, Advanced) <br> Issued: June 2026
 -->
 
 <hr width="10%">
