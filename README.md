@@ -1,13 +1,9 @@
 <img src="https://komarev.com/ghpvc/?username=alexandrmatviyenko" alt="https://github.com/alexandrmatviyenko" />
 
-<!--
-Backend Developer (Go) - изменить с Frontend Developer в блоке персональной информации слева
--->
-
-
 <h3 align="left"> 
   About Me ⚡ 
 </h3>
+
 <p align="left"> Frontend Developer focused on building modern, responsive, and accessible web applications with clean, maintainable code. I enjoy transforming complex ideas into intuitive user experiences, paying close attention to performance, usability, and implementation quality. Always looking to deepen my technical expertise, embrace new challenges, and collaborate with teams that value thoughtful engineering and continuous improvement. </p>
 <p align="left"> 🌏 Shymkent, Kazakhstan </p>
 <p align="left"> 🔤 English – B2 | Russian – Native </p>
@@ -21,10 +17,11 @@ Backend Developer (Go) - изменить с Frontend Developer в блоке п
 <hr width="10%">
 <br>
 
-
+<!--
 <h3 align="left"> 
   Tech Stack 💻 
 </h3>
+-->
 
 <!-- Изменить с Frontend Developer в блоке персональной информации слева на Backend Developer (Go) | PostgreSQL · REST APIs · JWT · Git
 - <p align="left"> <b> Backend </b> – Go • HTTP • REST API • JSON • JWT Authentication • Authorization • Middleware • API Design • Password Hashing • Input Validation </p>
@@ -64,8 +61,10 @@ Backend Developer (Go) - изменить с Frontend Developer в блоке п
 - <p align="left"> <b> Additional Experience </b> – Tortoise SVN • Squirrel • HTML5 • CSS3 • JavaScript • AngularJS • Bootstrap • Figma • Jira • Code Review (Phabricator) </p>
 -->
 
+<!--
 <hr width="10%">
 <br>
+-->
 
 <h3>
   Education 🎓
@@ -73,7 +72,6 @@ Backend Developer (Go) - изменить с Frontend Developer в блоке п
 
 - <b> Bachelor's Degree </b> <br> Translation Studies | GPA – 3.78 / 4
   <p> Kazakhstan Engineering and Pedagogical University of Friendship of Nations <br> (2012 – 2016) | Shymkent, Kazakhstan </p>
-
 
 <hr width="10%">
 <br>
