@@ -76,6 +76,7 @@
 <hr width="10%">
 <br>
 
+<!--
 <h3> 
   Professional Development ✅
 </h3>
@@ -83,14 +84,13 @@
 - [Programming in Go – Stepik](https://stepik.org/course/250260) <br> Issued: 2026
 
 <!-- Patterns
-- [AWS Certified Cloud Practitioner](https://github.com/AlexandrMatviyenko) <br> Issued: 2027
-- [AWS Certified Developer – Associate](https://github.com/AlexandrMatviyenko) <br> Issued: 2027
 - [AWS Certified Solutions Architect – Associate](https://github.com/AlexandrMatviyenko) <br> Issued: 2027
-- [AWS Certified Solutions Architect – Professional](https://github.com/AlexandrMatviyenko) <br> Issued: 2027
--->
+- [AWS Certified Developer – Associate](https://github.com/AlexandrMatviyenko) <br> Issued: 2027
+- [AWS Certified Cloud Practitioner](https://github.com/AlexandrMatviyenko) <br> Issued: 2027
 
 <hr width="10%">
 <br>
+-->
 
 <h3> 
   English Certifications ✅
