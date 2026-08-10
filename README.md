@@ -4,14 +4,20 @@
   About Me ⚡ 
 </h3>
 
-<p align="left"> Frontend Developer focused on building modern, responsive, and accessible web applications with clean, maintainable code. I enjoy transforming complex ideas into intuitive user experiences, paying close attention to performance, usability, and implementation quality. Always looking to deepen my technical expertise, embrace new challenges, and collaborate with teams that value thoughtful engineering and continuous improvement. </p>
+<p align="left"> Hi 👋 I'm a Frontend Developer focused on building modern, responsive, and accessible web applications with clean, maintainable code. I enjoy transforming complex ideas into intuitive user experiences, paying close attention to performance, usability, and implementation quality. Always looking to deepen my technical expertise, embrace new challenges, and collaborate with teams that value thoughtful engineering and continuous improvement. </p>
 
 - <b> Languages 🌏 </b> <br> English (B2) <br> Russian (Native)
-<!-- Вернуть когда буду упаковывать профиль под бэкендера
-<p align="left"> Go Backend Developer focused on building backend services and REST APIs </p>
-<p align="left"> I enjoy working with Go, databases, and authentication systems, and I focus on understanding how real backend applications are designed and work under the hood </p>
+<!-- Вернуть когда буду упаковывать профиль под Backend Developer (Go)
+<p align="left"> Hi 👋 I'm a Backend Developer focused on Go. </p>
+<p align="left"> I build reliable backend services with Go, PostgreSQL, REST APIs, and modern development practices. </p>
 
-- <b> Languages 🌏 </b> <br> English (B2) <br> Russian (Native)
+Вернуть когда буду упаковывать профиль под Software Engineer
+<p align="left"> Hi 👋 I'm a Software Engineer focused on Go Backend Development. </p>
+<p align="left"> I build scalable backend services and work with distributed systems, cloud infrastructure, and clean architecture. </p>
+
+Вернуть когда буду упаковывать профиль под Senior Software Engineer
+<p align="left"> Hi 👋 I'm a Senior Software Engineer specializing in Go Backend and Distributed Systems. </p>
+<p align="left"> I design and build scalable, reliable backend systems with a focus on architecture, cloud infrastructure, performance, and engineering excellence. </p>
 -->
 
 <hr width="10%">
