@@ -40,7 +40,7 @@
 - <p align="left"> <b> Additional Experience </b> – Tortoise SVN · Squirrel · HTML5 · CSS3 · JavaScript · JavaScript · AngularJS · Bootstrap · Figma · Jira · Phabricator </p>
 -->
 
-<!-- Изменить в блоке персональной информации слева на Software Engineer | Go Backend | PostgreSQL · Redis · Docker · RabbitMQ · AWS
+<!-- Изменить в блоке персональной информации слева на Software Engineer | Go Backend | PostgreSQL · Redis · RabbitMQ · AWS
 - <p align="left"> <b> Go Backend </b> – Go · HTTP · REST API · JSON · JWT · Authentication · Authorization · Middleware · OAuth2 </p>
 - <p align="left"> <b> Go Core </b> – Interfaces · Pointers · Errors · Generics · Goroutines · Channels · Concurrency · Context · Profiling · Performance </p>
 - <p align="left"> <b> Databases </b> – PostgreSQL · SQL · CRUD · JOINs · Transactions · Indexes · Migrations · Redis · Caching · TTL </p>
@@ -54,7 +54,7 @@
 - <p align="left"> <b> Additional Experience </b> – Tortoise SVN · Squirrel · HTML5 · CSS3 · Bootstrap · Figma · Jira · Phabricator </p>
 -->
 
-<!-- Изменить в блоке персональной информации слева на Senior Software Engineer | Go Backend | Distributed Systems · AWS · Kubernetes
+<!-- Изменить в блоке персональной информации слева на Senior Go Backend Engineer | Distributed Systems · System Design · AWS · Kubernetes
 - <p align="left"> <b> Go Backend </b> – Go · HTTP · REST API · gRPC · JSON · JWT · OAuth2 · Authentication · Authorization · Middleware </p>
 - <p align="left"> <b> Go Core </b> – Interfaces · Generics · Goroutines · Channels · Concurrency · Context · Profiling · Memory · Performance Optimization </p>
 - <p align="left"> <b> Databases </b> – PostgreSQL · SQL · Transactions · Indexes · Query Optimization · Redis · Caching · Database Design </p>
@@ -93,8 +93,6 @@
 
 <!-- Patterns
 - [AWS Certified Solutions Architect – Associate](https://github.com/AlexandrMatviyenko) <br> Issued: 2027
-- [AWS Certified Developer – Associate](https://github.com/AlexandrMatviyenko) <br> Issued: 2027
-- [AWS Certified Cloud Practitioner](https://github.com/AlexandrMatviyenko) <br> Issued: 2027
 
 <hr width="10%">
 <br>
