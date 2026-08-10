@@ -24,42 +24,44 @@
 -->
 
 <!--
-Изменить с Frontend Developer в блоке персональной информации слева на Backend Developer (Go) | PostgreSQL · REST APIs · JWT · Git
+Изменить с Frontend Developer в блоке персональной информации слева на Backend Developer (Go) | REST APIs · PostgreSQL · Docker · RabbitMQ
 - <p align="left"> <b> Backend </b> – Go · HTTP · REST API · JSON · JWT Authentication · Authorization · Middleware · API Design · Password Hashing · Input Validation </p>
 - <p align="left"> <b> Databases </b> – PostgreSQL · SQL · CRUD Operations · Database Relationships · JOINs · Indexes · Persistence Layer </p>
 - <p align="left"> <b> Architecture </b> – Clean Architecture Basics · Repository Pattern · Service Layer · Separation of Concerns · Request Lifecycle </p>
 - <p align="left"> <b> Testing </b> – Unit Testing · Table-Driven Tests · httptest · Integration Testing · Mocking </p>
 - <p align="left"> <b> Concepts </b> – Request → Response Lifecycle · Backend Logic · Stateless Authentication · Session vs JWT · Error Handling · Authentication · Authorization · Roles & Permissions </p>
 - <p align="left"> <b> Tools </b> – Git · GitHub · Pull Requests · Git Flow · Rebase · Cherry-pick · Squash · Code Review </p>
-- <p align="left"> <b> Additional Experience </b> – Tortoise SVN · Squirrel · HTML5 · CSS3 · JavaScript · JavaScript · AngularJS · Bootstrap · Figma · Jira · Code Review (Phabricator) </p>
+- <p align="left"> <b> Additional Experience </b> – Tortoise SVN · Squirrel · HTML5 · CSS3 · JavaScript · JavaScript · AngularJS · Bootstrap · Figma · Jira · Phabricator </p>
 -->
 
-<!-- Изменить в блоке персональной информации слева на Software Engineer | Go Backend | PostgreSQL · Docker · Redis · Concurrency
-- <p align="left"> <b> Backend </b> – Go · HTTP · REST API · JSON · JWT Authentication · Authorization · Middleware · API Design · Password Hashing · Input Validation · Concurrency · Goroutines · Channels · Worker Patterns · Background Jobs · Asynchronous Processing · Retry & Backoff · Idempotency </p>
-- <p align="left"> <b> Databases </b> – PostgreSQL · SQL · CRUD Operations · Database Relationships · JOINs · Indexes · Persistence Layer · Redis · In-Memory Storage · Caching </p>
-- <p align="left"> <b> Architecture </b> – Clean Architecture Basics · Hexagonal Architecture · Repository Pattern · Service Layer · Separation of Concerns · Dependency Injection · Dependency Flow · Scalable Project Structure · Request Lifecycle · Testability · Reusable Components </p>
-- <p align="left"> <b> Testing </b> – Unit Testing · Table-Driven Tests · httptest · Integration Testing · Mocking </p>
-- <p align="left"> <b> Observability </b> – Structured Logging · slog · zap · Request ID · Correlation ID · Logging Basics </p>
-- <p align="left"> <b> Security </b> – Authentication · Authorization · Access Control · SQL Injection Prevention · REST API Security · File Upload Security · Business Logic Security · Stateless Authentication · Session vs JWT · Roles & Permissions · Error Handling </p>
-- <p align="left"> <b> Infrastructure </b> – Docker · Docker Compose · Redis · Backend Infrastructure · API Performance Optimization </p>
-- <p align="left"> <b> Concepts </b> – Request → Response Lifecycle · Backend Logic · Concurrent Programming · Parallel Execution · Race Conditions · Distributed Systems Basics </p>
-- <p align="left"> <b> Cloud </b> – AWS Cloud Practitioner · AWS Developer Associate · AWS Solutions Architect Associate </p>
-- <p align="left"> <b> Tools </b> – Git · GitHub · Pull Requests · Git Flow · Rebase · Cherry-pick · Squash · Code Review </p>
-- <p align="left"> <b> Additional Experience </b> – Tortoise SVN · Squirrel · HTML5 · CSS3 · JavaScript · AngularJS · Bootstrap · Figma · Jira · Code Review (Phabricator) </p>
+<!-- Изменить в блоке персональной информации слева на Software Engineer | Go Backend | PostgreSQL · Redis · Docker · RabbitMQ · AWS
+- <p align="left"> <b> Go Backend </b> – Go · HTTP · REST API · JSON · JWT · Authentication · Authorization · Middleware · OAuth2 </p>
+- <p align="left"> <b> Go Core </b> – Interfaces · Pointers · Errors · Generics · Goroutines · Channels · Concurrency · Context · Profiling · Performance </p>
+- <p align="left"> <b> Databases </b> – PostgreSQL · SQL · CRUD · JOINs · Transactions · Indexes · Migrations · Redis · Caching · TTL </p>
+- <p align="left"> <b> Architecture </b> – Clean Architecture · Hexagonal Architecture · DDD · SOLID · Repository Pattern · Service Layer · Dependency Inversion </p>
+- <p align="left"> <b> Distributed Systems </b> – RabbitMQ · Background Jobs · Worker Pools · Queues · Retries · Asynchronous Processing · Fault Tolerance </p>
+- <p align="left"> <b> Testing & Security </b> – Unit Testing · Integration Testing · httptest · Mocking · Secure Coding · OWASP · Password Security · Secrets </p>
+- <p align="left"> <b> Cloud & DevOps </b> – Docker · Docker Compose · Kubernetes · AWS · CI/CD · Deployment · IAM · Cloud Networking </p>
+- <p align="left"> <b> Observability </b> – Structured Logging · Metrics · Tracing · Monitoring · Health Checks · Production Debugging </p>
+- <p align="left"> <b> System Design </b> – Scalability · Availability · Caching · Databases · Queues · Distributed Systems · Fault Tolerance </p>
+- <p align="left"> <b> Tools </b> – Git · GitHub · Pull Requests · Rebase · Git Flow · Linux </p>
+- <p align="left"> <b> Additional Experience </b> – Tortoise SVN · Squirrel · HTML5 · CSS3 · Bootstrap · Figma · Jira · Phabricator </p>
 -->
 
-<!-- Изменить в блоке персональной информации слева на Software Engineer | Go Backend | Distributed Systems · Microservices · PostgreSQL · gRPC
-- <p align="left"> <b> Backend </b> – Go · HTTP · REST API · JSON · JWT Authentication · Authorization · Middleware · API Design · Password Hashing · Input Validation · Concurrency · Goroutines · Channels · Worker Patterns · Background Jobs · Asynchronous Processing · Retry & Backoff · Idempotency · gRPC · Service-to-Service Communication </p>
-- <p align="left"> <b> Databases </b> – PostgreSQL · SQL · CRUD Operations · Database Relationships · JOINs · Indexes · Persistence Layer · Redis · In-Memory Storage · Caching · Database Scaling · Caching Strategies </p>
-- <p align="left"> <b> Architecture </b> – Clean Architecture Basics · Hexagonal Architecture · Repository Pattern · Service Layer · Separation of Concerns · Dependency Injection · Dependency Flow · Scalable Project Structure · Request Lifecycle · Testability · Reusable Components · System Design · System Architecture · Scalable Systems · Microservices · Distributed Systems · Load Balancing · Fault Tolerance · High-Load Backend · CAP Theorem · Trade-off Analysis </p>
-- <p align="left"> <b> Testing </b> – Unit Testing · Table-Driven Tests · httptest · Integration Testing · Mocking </p>
-- <p align="left"> <b> Observability </b> – Structured Logging · slog · zap · Request ID · Correlation ID · Logging Basics </p>
-- <p align="left"> <b> Security </b> – Authentication · Authorization · Access Control · SQL Injection Prevention · REST API Security · File Upload Security · Business Logic Security · Stateless Authentication · Session vs JWT · Roles & Permissions · Error Handling </p>
-- <p align="left"> <b> Infrastructure </b> – Docker · Docker Compose · Redis · Backend Infrastructure · API Performance Optimization · Message Queues </p>
-- <p align="left"> <b> Cloud </b> – AWS Cloud Practitioner · AWS Developer Associate · AWS Solutions Architect Associate </p>
-- <p align="left"> <b> Concepts </b> – Request → Response Lifecycle · Backend Logic · Concurrent Programming · Parallel Execution · Race Conditions · Distributed Systems Basics · System Design · Scalability · Service Communication · System Design Interview Preparation </p>
-- <p align="left"> <b> Tools </b> – Git · GitHub · Pull Requests · Git Flow · Rebase · Cherry-pick · Squash · Code Review </p>
-- <p align="left"> <b> Additional Experience </b> – Tortoise SVN · Squirrel · HTML5 · CSS3 · JavaScript · AngularJS · Bootstrap · Figma · Jira · Code Review (Phabricator) </p>
+<!-- Изменить в блоке персональной информации слева на Senior Software Engineer | Go Backend | Distributed Systems · AWS · Kubernetes
+- <p align="left"> <b> Go Backend </b> – Go · HTTP · REST API · gRPC · JSON · JWT · OAuth2 · Authentication · Authorization · Middleware </p>
+- <p align="left"> <b> Go Core </b> – Interfaces · Generics · Goroutines · Channels · Concurrency · Context · Profiling · Memory · Performance Optimization </p>
+- <p align="left"> <b> Databases </b> – PostgreSQL · SQL · Transactions · Indexes · Query Optimization · Redis · Caching · Database Design </p>
+- <p align="left"> <b> Architecture </b> – Clean Architecture · Hexagonal Architecture · DDD · SOLID · Dependency Inversion · Domain Modeling · Distributed Architecture </p>
+- <p align="left"> <b> Distributed Systems </b> – RabbitMQ · Kafka · Event-Driven Architecture · Background Jobs · Worker Pools · Queues · Retries · Idempotency · Fault Tolerance </p>
+- <p align="left"> <b> System Design </b> – Scalability · High Availability · Reliability · Consistency · Load Balancing · Caching · Sharding · Replication · CAP Theorem </p>
+- <p align="left"> <b> Cloud & DevOps </b> – AWS · Kubernetes · Docker · Terraform · CI/CD · IAM · Networking · Infrastructure as Code · Deployment </p>
+- <p align="left"> <b> Observability </b> – OpenTelemetry · Metrics · Distributed Tracing · Structured Logging · Prometheus · Grafana · Monitoring · Alerting · Incident Debugging </p>
+- <p align="left"> <b> Security </b> – OWASP · Secure Coding · OAuth2 · Secrets Management · Encryption · Password Security · API Security </p>
+- <p align="left"> <b> Testing </b> – Unit Testing · Integration Testing · Contract Testing · End-to-End Testing · Load Testing · Benchmarking · Fuzz Testing </p>
+- <p align="left"> <b> Engineering </b> – Technical Leadership · Code Review · System Design · Architecture Decisions · Mentoring · Documentation · Technical Ownership </p>
+- <p align="left"> <b> Tools </b> – Git · GitHub · Linux · GitHub Actions · Terraform · Jira </p>
+- <p align="left"> <b> Additional Experience </b> – Tortoise SVN · Squirrel · HTML5 · CSS3 · Bootstrap · Figma · Jira · Phabricator </p>
 -->
 
 <!--
