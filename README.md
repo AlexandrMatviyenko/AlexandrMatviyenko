@@ -128,7 +128,7 @@
 
 | Company | Role | Period |
 |---------|------|--------|
-| **G5 Entertainment AB** | **Frontend Developer** | **April 2025 – August 2026** |
+| **G5 Entertainment AB** | **Mark-up Developer** | **April 2025 – August 2026** |
 
 <hr width="10%">
 <br>
